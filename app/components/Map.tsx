@@ -45,7 +45,7 @@ const Map = () => {
 
       // Add a marker at University of Leicester
       L.marker([spot.latitude, spot.longitude], {icon: parkingIcon}).addTo(map)
-        .bindPopup(spot.name)
+        .bindPopup("<b>"+spot.name+"</b><br>"+spot.prices+"<br><br>"+spot.description+"<br><br>"+spot.openCloseTimes)
         .openPopup();
     }
 

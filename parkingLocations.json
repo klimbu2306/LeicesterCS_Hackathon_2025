@@ -1,802 +1,802 @@
 [
     {
-        "name": "Quick quick parking",
+        "name": "Best car storage",
         "description": "A cool place to park",
-        "latitude": 52.57716311907635,
-        "longitude": -1.1176242672577368,
-        "openCloseTimes": "Monday : 6:30pm - 1:00am\nTeusday : 6:30pm - 1:00am\nWednesday : 6:30pm - 1:00am\nThursday : 6:30pm - 1:00am\nFriday : 6:30pm - 1:00am\nSaturday : 6:30pm - 1:00am\nSunday : 10:00am - 6:00pm",
-        "prices": "\u00a31 / hour"
-    },
-    {
-        "name": "Freemans car storage",
-        "description": "A cool place to park",
-        "latitude": 52.61334841412836,
-        "longitude": -1.1709014258547248,
-        "openCloseTimes": "Monday : 6:30pm - 1:00am\nTeusday : 6:30pm - 1:00am\nWednesday : 6:30pm - 1:00am\nThursday : 6:30pm - 1:00am\nFriday : 6:30pm - 1:00am\nSaturday : 6:30pm - 1:00am\nSunday : 10:00am - 6:00pm",
-        "prices": "\u00a31 / hour"
-    },
-    {
-        "name": "LeicesterCS park",
-        "description": "A cool place to park",
-        "latitude": 52.5800281978974,
-        "longitude": -1.0674982552387875,
-        "openCloseTimes": "Monday : 6:30pm - 1:00am\nTeusday : 6:30pm - 1:00am\nWednesday : 6:30pm - 1:00am\nThursday : 6:30pm - 1:00am\nFriday : 6:30pm - 1:00am\nSaturday : 6:30pm - 1:00am\nSunday : 10:00am - 6:00pm",
-        "prices": "\u00a31 / hour"
-    },
-    {
-        "name": "Quick parking",
-        "description": "A cool place to park",
-        "latitude": 52.661629965326945,
-        "longitude": -1.2021766938649567,
-        "openCloseTimes": "Monday : 6:30pm - 1:00am\nTeusday : 6:30pm - 1:00am\nWednesday : 6:30pm - 1:00am\nThursday : 6:30pm - 1:00am\nFriday : 6:30pm - 1:00am\nSaturday : 6:30pm - 1:00am\nSunday : 10:00am - 6:00pm",
-        "prices": "\u00a31 / hour"
-    },
-    {
-        "name": "Cheap parking lot",
-        "description": "A cool place to park",
-        "latitude": 52.66224160858773,
-        "longitude": -1.216240710685257,
-        "openCloseTimes": "Monday : 6:30pm - 1:00am\nTeusday : 6:30pm - 1:00am\nWednesday : 6:30pm - 1:00am\nThursday : 6:30pm - 1:00am\nFriday : 6:30pm - 1:00am\nSaturday : 6:30pm - 1:00am\nSunday : 10:00am - 6:00pm",
-        "prices": "\u00a31 / hour"
-    },
-    {
-        "name": "Park and go quick parking",
-        "description": "A cool place to park",
-        "latitude": 52.595724137767725,
-        "longitude": -1.0860846890918263,
-        "openCloseTimes": "Monday : 6:30pm - 1:00am\nTeusday : 6:30pm - 1:00am\nWednesday : 6:30pm - 1:00am\nThursday : 6:30pm - 1:00am\nFriday : 6:30pm - 1:00am\nSaturday : 6:30pm - 1:00am\nSunday : 10:00am - 6:00pm",
-        "prices": "\u00a31 / hour"
-    },
-    {
-        "name": "New house quick parking",
-        "description": "A cool place to park",
-        "latitude": 52.60547660646261,
-        "longitude": -1.0737864959007246,
-        "openCloseTimes": "Monday : 6:30pm - 1:00am\nTeusday : 6:30pm - 1:00am\nWednesday : 6:30pm - 1:00am\nThursday : 6:30pm - 1:00am\nFriday : 6:30pm - 1:00am\nSaturday : 6:30pm - 1:00am\nSunday : 10:00am - 6:00pm",
-        "prices": "\u00a31 / hour"
-    },
-    {
-        "name": "Park and go parking lot",
-        "description": "A cool place to park",
-        "latitude": 52.58268056470755,
-        "longitude": -1.043594547165128,
-        "openCloseTimes": "Monday : 6:30pm - 1:00am\nTeusday : 6:30pm - 1:00am\nWednesday : 6:30pm - 1:00am\nThursday : 6:30pm - 1:00am\nFriday : 6:30pm - 1:00am\nSaturday : 6:30pm - 1:00am\nSunday : 10:00am - 6:00pm",
-        "prices": "\u00a31 / hour"
-    },
-    {
-        "name": "Best park",
-        "description": "A cool place to park",
-        "latitude": 52.667318991431046,
-        "longitude": -1.12561816672544,
-        "openCloseTimes": "Monday : 6:30pm - 1:00am\nTeusday : 6:30pm - 1:00am\nWednesday : 6:30pm - 1:00am\nThursday : 6:30pm - 1:00am\nFriday : 6:30pm - 1:00am\nSaturday : 6:30pm - 1:00am\nSunday : 10:00am - 6:00pm",
-        "prices": "\u00a31 / hour"
-    },
-    {
-        "name": "James' parking",
-        "description": "A cool place to park",
-        "latitude": 52.684867398387134,
-        "longitude": -1.0996492656247545,
-        "openCloseTimes": "Monday : 6:30pm - 1:00am\nTeusday : 6:30pm - 1:00am\nWednesday : 6:30pm - 1:00am\nThursday : 6:30pm - 1:00am\nFriday : 6:30pm - 1:00am\nSaturday : 6:30pm - 1:00am\nSunday : 10:00am - 6:00pm",
-        "prices": "\u00a31 / hour"
-    },
-    {
-        "name": "James' park",
-        "description": "A cool place to park",
-        "latitude": 52.64262903560856,
-        "longitude": -1.1165059685821543,
-        "openCloseTimes": "Monday : 6:30pm - 1:00am\nTeusday : 6:30pm - 1:00am\nWednesday : 6:30pm - 1:00am\nThursday : 6:30pm - 1:00am\nFriday : 6:30pm - 1:00am\nSaturday : 6:30pm - 1:00am\nSunday : 10:00am - 6:00pm",
-        "prices": "\u00a31 / hour"
-    },
-    {
-        "name": "Car protect multi-story car park",
-        "description": "A cool place to park",
-        "latitude": 52.59956844860534,
-        "longitude": -1.191240715882096,
-        "openCloseTimes": "Monday : 6:30pm - 1:00am\nTeusday : 6:30pm - 1:00am\nWednesday : 6:30pm - 1:00am\nThursday : 6:30pm - 1:00am\nFriday : 6:30pm - 1:00am\nSaturday : 6:30pm - 1:00am\nSunday : 10:00am - 6:00pm",
-        "prices": "\u00a31 / hour"
-    },
-    {
-        "name": "New house cheap parking",
-        "description": "A cool place to park",
-        "latitude": 52.61954465553653,
-        "longitude": -1.1585647912850223,
-        "openCloseTimes": "Monday : 6:30pm - 1:00am\nTeusday : 6:30pm - 1:00am\nWednesday : 6:30pm - 1:00am\nThursday : 6:30pm - 1:00am\nFriday : 6:30pm - 1:00am\nSaturday : 6:30pm - 1:00am\nSunday : 10:00am - 6:00pm",
-        "prices": "\u00a31 / hour"
-    },
-    {
-        "name": "Park and go cheap parking",
-        "description": "A cool place to park",
-        "latitude": 52.60504439323313,
-        "longitude": -1.195219324948386,
-        "openCloseTimes": "Monday : 6:30pm - 1:00am\nTeusday : 6:30pm - 1:00am\nWednesday : 6:30pm - 1:00am\nThursday : 6:30pm - 1:00am\nFriday : 6:30pm - 1:00am\nSaturday : 6:30pm - 1:00am\nSunday : 10:00am - 6:00pm",
-        "prices": "\u00a31 / hour"
-    },
-    {
-        "name": "Safe park",
-        "description": "A cool place to park",
-        "latitude": 52.57571327602301,
-        "longitude": -1.1623970788869233,
-        "openCloseTimes": "Monday : 6:30pm - 1:00am\nTeusday : 6:30pm - 1:00am\nWednesday : 6:30pm - 1:00am\nThursday : 6:30pm - 1:00am\nFriday : 6:30pm - 1:00am\nSaturday : 6:30pm - 1:00am\nSunday : 10:00am - 6:00pm",
-        "prices": "\u00a31 / hour"
-    },
-    {
-        "name": "React park",
-        "description": "A cool place to park",
-        "latitude": 52.6014286884623,
-        "longitude": -1.0938242555426392,
-        "openCloseTimes": "Monday : 6:30pm - 1:00am\nTeusday : 6:30pm - 1:00am\nWednesday : 6:30pm - 1:00am\nThursday : 6:30pm - 1:00am\nFriday : 6:30pm - 1:00am\nSaturday : 6:30pm - 1:00am\nSunday : 10:00am - 6:00pm",
-        "prices": "\u00a31 / hour"
-    },
-    {
-        "name": "New house multi-story car park",
-        "description": "A cool place to park",
-        "latitude": 52.67359201174928,
-        "longitude": -1.1841722288088707,
-        "openCloseTimes": "Monday : 6:30pm - 1:00am\nTeusday : 6:30pm - 1:00am\nWednesday : 6:30pm - 1:00am\nThursday : 6:30pm - 1:00am\nFriday : 6:30pm - 1:00am\nSaturday : 6:30pm - 1:00am\nSunday : 10:00am - 6:00pm",
-        "prices": "\u00a31 / hour"
-    },
-    {
-        "name": "James' quick parking",
-        "description": "A cool place to park",
-        "latitude": 52.6096026886867,
-        "longitude": -1.1838892194309703,
-        "openCloseTimes": "Monday : 6:30pm - 1:00am\nTeusday : 6:30pm - 1:00am\nWednesday : 6:30pm - 1:00am\nThursday : 6:30pm - 1:00am\nFriday : 6:30pm - 1:00am\nSaturday : 6:30pm - 1:00am\nSunday : 10:00am - 6:00pm",
-        "prices": "\u00a31 / hour"
-    },
-    {
-        "name": "Car protect parking",
-        "description": "A cool place to park",
-        "latitude": 52.67186472472885,
-        "longitude": -1.067896528348589,
-        "openCloseTimes": "Monday : 6:30pm - 1:00am\nTeusday : 6:30pm - 1:00am\nWednesday : 6:30pm - 1:00am\nThursday : 6:30pm - 1:00am\nFriday : 6:30pm - 1:00am\nSaturday : 6:30pm - 1:00am\nSunday : 10:00am - 6:00pm",
-        "prices": "\u00a31 / hour"
-    },
-    {
-        "name": "Expensivemans parking",
-        "description": "A cool place to park",
-        "latitude": 52.670263560776746,
-        "longitude": -1.1038034641850383,
-        "openCloseTimes": "Monday : 6:30pm - 1:00am\nTeusday : 6:30pm - 1:00am\nWednesday : 6:30pm - 1:00am\nThursday : 6:30pm - 1:00am\nFriday : 6:30pm - 1:00am\nSaturday : 6:30pm - 1:00am\nSunday : 10:00am - 6:00pm",
-        "prices": "\u00a31 / hour"
-    },
-    {
-        "name": "LeicesterCS car storage",
-        "description": "A cool place to park",
-        "latitude": 52.581791423119626,
-        "longitude": -1.165923751895557,
-        "openCloseTimes": "Monday : 6:30pm - 1:00am\nTeusday : 6:30pm - 1:00am\nWednesday : 6:30pm - 1:00am\nThursday : 6:30pm - 1:00am\nFriday : 6:30pm - 1:00am\nSaturday : 6:30pm - 1:00am\nSunday : 10:00am - 6:00pm",
-        "prices": "\u00a31 / hour"
-    },
-    {
-        "name": "James' parking",
-        "description": "A cool place to park",
-        "latitude": 52.651147392468175,
-        "longitude": -1.1055409163565042,
-        "openCloseTimes": "Monday : 6:30pm - 1:00am\nTeusday : 6:30pm - 1:00am\nWednesday : 6:30pm - 1:00am\nThursday : 6:30pm - 1:00am\nFriday : 6:30pm - 1:00am\nSaturday : 6:30pm - 1:00am\nSunday : 10:00am - 6:00pm",
-        "prices": "\u00a31 / hour"
-    },
-    {
-        "name": "Park and go car storage",
-        "description": "A cool place to park",
-        "latitude": 52.641911481804414,
-        "longitude": -1.1312920893054073,
-        "openCloseTimes": "Monday : 6:30pm - 1:00am\nTeusday : 6:30pm - 1:00am\nWednesday : 6:30pm - 1:00am\nThursday : 6:30pm - 1:00am\nFriday : 6:30pm - 1:00am\nSaturday : 6:30pm - 1:00am\nSunday : 10:00am - 6:00pm",
-        "prices": "\u00a31 / hour"
-    },
-    {
-        "name": "James' quick parking",
-        "description": "A cool place to park",
-        "latitude": 52.65749250581508,
-        "longitude": -1.1334190766890337,
-        "openCloseTimes": "Monday : 6:30pm - 1:00am\nTeusday : 6:30pm - 1:00am\nWednesday : 6:30pm - 1:00am\nThursday : 6:30pm - 1:00am\nFriday : 6:30pm - 1:00am\nSaturday : 6:30pm - 1:00am\nSunday : 10:00am - 6:00pm",
-        "prices": "\u00a31 / hour"
-    },
-    {
-        "name": "Rundown cheap parking",
-        "description": "A cool place to park",
-        "latitude": 52.653863066970615,
-        "longitude": -1.1270810096715536,
-        "openCloseTimes": "Monday : 6:30pm - 1:00am\nTeusday : 6:30pm - 1:00am\nWednesday : 6:30pm - 1:00am\nThursday : 6:30pm - 1:00am\nFriday : 6:30pm - 1:00am\nSaturday : 6:30pm - 1:00am\nSunday : 10:00am - 6:00pm",
-        "prices": "\u00a31 / hour"
-    },
-    {
-        "name": "Freemans quick parking",
-        "description": "A cool place to park",
-        "latitude": 52.60299138331577,
-        "longitude": -1.1644547883945642,
-        "openCloseTimes": "Monday : 6:30pm - 1:00am\nTeusday : 6:30pm - 1:00am\nWednesday : 6:30pm - 1:00am\nThursday : 6:30pm - 1:00am\nFriday : 6:30pm - 1:00am\nSaturday : 6:30pm - 1:00am\nSunday : 10:00am - 6:00pm",
-        "prices": "\u00a31 / hour"
-    },
-    {
-        "name": "Freemans car storage",
-        "description": "A cool place to park",
-        "latitude": 52.587686584300705,
-        "longitude": -1.2027845124754948,
-        "openCloseTimes": "Monday : 6:30pm - 1:00am\nTeusday : 6:30pm - 1:00am\nWednesday : 6:30pm - 1:00am\nThursday : 6:30pm - 1:00am\nFriday : 6:30pm - 1:00am\nSaturday : 6:30pm - 1:00am\nSunday : 10:00am - 6:00pm",
-        "prices": "\u00a31 / hour"
-    },
-    {
-        "name": "Top car storage",
-        "description": "A cool place to park",
-        "latitude": 52.624970590204995,
-        "longitude": -1.11698795702854,
-        "openCloseTimes": "Monday : 6:30pm - 1:00am\nTeusday : 6:30pm - 1:00am\nWednesday : 6:30pm - 1:00am\nThursday : 6:30pm - 1:00am\nFriday : 6:30pm - 1:00am\nSaturday : 6:30pm - 1:00am\nSunday : 10:00am - 6:00pm",
-        "prices": "\u00a31 / hour"
-    },
-    {
-        "name": "Freemans parking lot",
-        "description": "A cool place to park",
-        "latitude": 52.619605704040275,
-        "longitude": -1.0604280097568015,
-        "openCloseTimes": "Monday : 6:30pm - 1:00am\nTeusday : 6:30pm - 1:00am\nWednesday : 6:30pm - 1:00am\nThursday : 6:30pm - 1:00am\nFriday : 6:30pm - 1:00am\nSaturday : 6:30pm - 1:00am\nSunday : 10:00am - 6:00pm",
-        "prices": "\u00a31 / hour"
-    },
-    {
-        "name": "Node.js car storage",
-        "description": "A cool place to park",
-        "latitude": 52.66553359697647,
-        "longitude": -1.188224790831907,
-        "openCloseTimes": "Monday : 6:30pm - 1:00am\nTeusday : 6:30pm - 1:00am\nWednesday : 6:30pm - 1:00am\nThursday : 6:30pm - 1:00am\nFriday : 6:30pm - 1:00am\nSaturday : 6:30pm - 1:00am\nSunday : 10:00am - 6:00pm",
-        "prices": "\u00a31 / hour"
-    },
-    {
-        "name": "Park and go parking",
-        "description": "A cool place to park",
-        "latitude": 52.66422453430241,
-        "longitude": -1.094195672364631,
-        "openCloseTimes": "Monday : 6:30pm - 1:00am\nTeusday : 6:30pm - 1:00am\nWednesday : 6:30pm - 1:00am\nThursday : 6:30pm - 1:00am\nFriday : 6:30pm - 1:00am\nSaturday : 6:30pm - 1:00am\nSunday : 10:00am - 6:00pm",
-        "prices": "\u00a31 / hour"
-    },
-    {
-        "name": "LeicesterCS parking",
-        "description": "A cool place to park",
-        "latitude": 52.66380110615992,
-        "longitude": -1.1594694667701313,
-        "openCloseTimes": "Monday : 6:30pm - 1:00am\nTeusday : 6:30pm - 1:00am\nWednesday : 6:30pm - 1:00am\nThursday : 6:30pm - 1:00am\nFriday : 6:30pm - 1:00am\nSaturday : 6:30pm - 1:00am\nSunday : 10:00am - 6:00pm",
-        "prices": "\u00a31 / hour"
-    },
-    {
-        "name": "Freemans multi-story car park",
-        "description": "A cool place to park",
-        "latitude": 52.64374983423449,
-        "longitude": -1.1168610922389657,
-        "openCloseTimes": "Monday : 6:30pm - 1:00am\nTeusday : 6:30pm - 1:00am\nWednesday : 6:30pm - 1:00am\nThursday : 6:30pm - 1:00am\nFriday : 6:30pm - 1:00am\nSaturday : 6:30pm - 1:00am\nSunday : 10:00am - 6:00pm",
-        "prices": "\u00a31 / hour"
-    },
-    {
-        "name": "Top car storage",
-        "description": "A cool place to park",
-        "latitude": 52.647684598619776,
-        "longitude": -1.1078129238509462,
-        "openCloseTimes": "Monday : 6:30pm - 1:00am\nTeusday : 6:30pm - 1:00am\nWednesday : 6:30pm - 1:00am\nThursday : 6:30pm - 1:00am\nFriday : 6:30pm - 1:00am\nSaturday : 6:30pm - 1:00am\nSunday : 10:00am - 6:00pm",
-        "prices": "\u00a31 / hour"
-    },
-    {
-        "name": "Safe car storage",
-        "description": "A cool place to park",
-        "latitude": 52.57926540255254,
-        "longitude": -1.1361469376396323,
-        "openCloseTimes": "Monday : 6:30pm - 1:00am\nTeusday : 6:30pm - 1:00am\nWednesday : 6:30pm - 1:00am\nThursday : 6:30pm - 1:00am\nFriday : 6:30pm - 1:00am\nSaturday : 6:30pm - 1:00am\nSunday : 10:00am - 6:00pm",
-        "prices": "\u00a31 / hour"
-    },
-    {
-        "name": "Node.js park",
-        "description": "A cool place to park",
-        "latitude": 52.684894621185435,
-        "longitude": -1.1678715730176616,
-        "openCloseTimes": "Monday : 6:30pm - 1:00am\nTeusday : 6:30pm - 1:00am\nWednesday : 6:30pm - 1:00am\nThursday : 6:30pm - 1:00am\nFriday : 6:30pm - 1:00am\nSaturday : 6:30pm - 1:00am\nSunday : 10:00am - 6:00pm",
-        "prices": "\u00a31 / hour"
-    },
-    {
-        "name": "Freemans parking",
-        "description": "A cool place to park",
-        "latitude": 52.64105545297029,
-        "longitude": -1.095235809629822,
-        "openCloseTimes": "Monday : 6:30pm - 1:00am\nTeusday : 6:30pm - 1:00am\nWednesday : 6:30pm - 1:00am\nThursday : 6:30pm - 1:00am\nFriday : 6:30pm - 1:00am\nSaturday : 6:30pm - 1:00am\nSunday : 10:00am - 6:00pm",
+        "latitude": 52.572668553003005,
+        "longitude": -1.0889567359181078,
+        "openCloseTimes": "Monday : 6:30pm - 1:00am<br>Tuesday : 6:30pm - 1:00am<br>Wednesday : 6:30pm - 1:00am<br>Thursday : 6:30pm - 1:00am<br>Friday : 6:30pm - 1:00am<br>Saturday : 6:30pm - 1:00am<br>Sunday : 10:00am - 6:00pm",
         "prices": "\u00a31 / hour"
     },
     {
         "name": "Expensivemans parking lot",
         "description": "A cool place to park",
-        "latitude": 52.64889087574523,
-        "longitude": -1.0401558762645071,
-        "openCloseTimes": "Monday : 6:30pm - 1:00am\nTeusday : 6:30pm - 1:00am\nWednesday : 6:30pm - 1:00am\nThursday : 6:30pm - 1:00am\nFriday : 6:30pm - 1:00am\nSaturday : 6:30pm - 1:00am\nSunday : 10:00am - 6:00pm",
+        "latitude": 52.635305922228724,
+        "longitude": -1.120664602345155,
+        "openCloseTimes": "Monday : 6:30pm - 1:00am<br>Tuesday : 6:30pm - 1:00am<br>Wednesday : 6:30pm - 1:00am<br>Thursday : 6:30pm - 1:00am<br>Friday : 6:30pm - 1:00am<br>Saturday : 6:30pm - 1:00am<br>Sunday : 10:00am - 6:00pm",
         "prices": "\u00a31 / hour"
     },
     {
-        "name": "LeicesterCS parking lot",
+        "name": "New house multi-story car park",
         "description": "A cool place to park",
-        "latitude": 52.57945404299761,
-        "longitude": -1.2122992368003134,
-        "openCloseTimes": "Monday : 6:30pm - 1:00am\nTeusday : 6:30pm - 1:00am\nWednesday : 6:30pm - 1:00am\nThursday : 6:30pm - 1:00am\nFriday : 6:30pm - 1:00am\nSaturday : 6:30pm - 1:00am\nSunday : 10:00am - 6:00pm",
-        "prices": "\u00a31 / hour"
-    },
-    {
-        "name": "React parking",
-        "description": "A cool place to park",
-        "latitude": 52.611375287805764,
-        "longitude": -1.076458459967768,
-        "openCloseTimes": "Monday : 6:30pm - 1:00am\nTeusday : 6:30pm - 1:00am\nWednesday : 6:30pm - 1:00am\nThursday : 6:30pm - 1:00am\nFriday : 6:30pm - 1:00am\nSaturday : 6:30pm - 1:00am\nSunday : 10:00am - 6:00pm",
-        "prices": "\u00a31 / hour"
-    },
-    {
-        "name": "LeicesterCS car storage",
-        "description": "A cool place to park",
-        "latitude": 52.62181501394146,
-        "longitude": -1.1065593921237002,
-        "openCloseTimes": "Monday : 6:30pm - 1:00am\nTeusday : 6:30pm - 1:00am\nWednesday : 6:30pm - 1:00am\nThursday : 6:30pm - 1:00am\nFriday : 6:30pm - 1:00am\nSaturday : 6:30pm - 1:00am\nSunday : 10:00am - 6:00pm",
-        "prices": "\u00a31 / hour"
-    },
-    {
-        "name": "Node.js parking lot",
-        "description": "A cool place to park",
-        "latitude": 52.604002948864895,
-        "longitude": -1.1931040042651733,
-        "openCloseTimes": "Monday : 6:30pm - 1:00am\nTeusday : 6:30pm - 1:00am\nWednesday : 6:30pm - 1:00am\nThursday : 6:30pm - 1:00am\nFriday : 6:30pm - 1:00am\nSaturday : 6:30pm - 1:00am\nSunday : 10:00am - 6:00pm",
-        "prices": "\u00a31 / hour"
-    },
-    {
-        "name": "Safe multi-story car park",
-        "description": "A cool place to park",
-        "latitude": 52.66822844957295,
-        "longitude": -1.0647921965437301,
-        "openCloseTimes": "Monday : 6:30pm - 1:00am\nTeusday : 6:30pm - 1:00am\nWednesday : 6:30pm - 1:00am\nThursday : 6:30pm - 1:00am\nFriday : 6:30pm - 1:00am\nSaturday : 6:30pm - 1:00am\nSunday : 10:00am - 6:00pm",
-        "prices": "\u00a31 / hour"
-    },
-    {
-        "name": "Cheap multi-story car park",
-        "description": "A cool place to park",
-        "latitude": 52.65058016884726,
-        "longitude": -1.0707769910034561,
-        "openCloseTimes": "Monday : 6:30pm - 1:00am\nTeusday : 6:30pm - 1:00am\nWednesday : 6:30pm - 1:00am\nThursday : 6:30pm - 1:00am\nFriday : 6:30pm - 1:00am\nSaturday : 6:30pm - 1:00am\nSunday : 10:00am - 6:00pm",
-        "prices": "\u00a31 / hour"
-    },
-    {
-        "name": "LeicesterCS parking",
-        "description": "A cool place to park",
-        "latitude": 52.65305062931832,
-        "longitude": -1.118675783241387,
-        "openCloseTimes": "Monday : 6:30pm - 1:00am\nTeusday : 6:30pm - 1:00am\nWednesday : 6:30pm - 1:00am\nThursday : 6:30pm - 1:00am\nFriday : 6:30pm - 1:00am\nSaturday : 6:30pm - 1:00am\nSunday : 10:00am - 6:00pm",
-        "prices": "\u00a31 / hour"
-    },
-    {
-        "name": "James' parking",
-        "description": "A cool place to park",
-        "latitude": 52.68347312502507,
-        "longitude": -1.20971207302066,
-        "openCloseTimes": "Monday : 6:30pm - 1:00am\nTeusday : 6:30pm - 1:00am\nWednesday : 6:30pm - 1:00am\nThursday : 6:30pm - 1:00am\nFriday : 6:30pm - 1:00am\nSaturday : 6:30pm - 1:00am\nSunday : 10:00am - 6:00pm",
-        "prices": "\u00a31 / hour"
-    },
-    {
-        "name": "Safe parking lot",
-        "description": "A cool place to park",
-        "latitude": 52.681838128859724,
-        "longitude": -1.1886716939654862,
-        "openCloseTimes": "Monday : 6:30pm - 1:00am\nTeusday : 6:30pm - 1:00am\nWednesday : 6:30pm - 1:00am\nThursday : 6:30pm - 1:00am\nFriday : 6:30pm - 1:00am\nSaturday : 6:30pm - 1:00am\nSunday : 10:00am - 6:00pm",
-        "prices": "\u00a31 / hour"
-    },
-    {
-        "name": "Best cheap parking",
-        "description": "A cool place to park",
-        "latitude": 52.61948813623791,
-        "longitude": -1.1586437807715364,
-        "openCloseTimes": "Monday : 6:30pm - 1:00am\nTeusday : 6:30pm - 1:00am\nWednesday : 6:30pm - 1:00am\nThursday : 6:30pm - 1:00am\nFriday : 6:30pm - 1:00am\nSaturday : 6:30pm - 1:00am\nSunday : 10:00am - 6:00pm",
-        "prices": "\u00a31 / hour"
-    },
-    {
-        "name": "Quick car storage",
-        "description": "A cool place to park",
-        "latitude": 52.61767613460661,
-        "longitude": -1.1080098763219646,
-        "openCloseTimes": "Monday : 6:30pm - 1:00am\nTeusday : 6:30pm - 1:00am\nWednesday : 6:30pm - 1:00am\nThursday : 6:30pm - 1:00am\nFriday : 6:30pm - 1:00am\nSaturday : 6:30pm - 1:00am\nSunday : 10:00am - 6:00pm",
-        "prices": "\u00a31 / hour"
-    },
-    {
-        "name": "Expensivemans multi-story car park",
-        "description": "A cool place to park",
-        "latitude": 52.6831787059687,
-        "longitude": -1.187173277433225,
-        "openCloseTimes": "Monday : 6:30pm - 1:00am\nTeusday : 6:30pm - 1:00am\nWednesday : 6:30pm - 1:00am\nThursday : 6:30pm - 1:00am\nFriday : 6:30pm - 1:00am\nSaturday : 6:30pm - 1:00am\nSunday : 10:00am - 6:00pm",
-        "prices": "\u00a31 / hour"
-    },
-    {
-        "name": "Safe cheap parking",
-        "description": "A cool place to park",
-        "latitude": 52.57939835223895,
-        "longitude": -1.1664661454821827,
-        "openCloseTimes": "Monday : 6:30pm - 1:00am\nTeusday : 6:30pm - 1:00am\nWednesday : 6:30pm - 1:00am\nThursday : 6:30pm - 1:00am\nFriday : 6:30pm - 1:00am\nSaturday : 6:30pm - 1:00am\nSunday : 10:00am - 6:00pm",
-        "prices": "\u00a31 / hour"
-    },
-    {
-        "name": "Park and go multi-story car park",
-        "description": "A cool place to park",
-        "latitude": 52.60528047844025,
-        "longitude": -1.0436291337729482,
-        "openCloseTimes": "Monday : 6:30pm - 1:00am\nTeusday : 6:30pm - 1:00am\nWednesday : 6:30pm - 1:00am\nThursday : 6:30pm - 1:00am\nFriday : 6:30pm - 1:00am\nSaturday : 6:30pm - 1:00am\nSunday : 10:00am - 6:00pm",
-        "prices": "\u00a31 / hour"
-    },
-    {
-        "name": "New house car storage",
-        "description": "A cool place to park",
-        "latitude": 52.63744412488297,
-        "longitude": -1.1212479819512042,
-        "openCloseTimes": "Monday : 6:30pm - 1:00am\nTeusday : 6:30pm - 1:00am\nWednesday : 6:30pm - 1:00am\nThursday : 6:30pm - 1:00am\nFriday : 6:30pm - 1:00am\nSaturday : 6:30pm - 1:00am\nSunday : 10:00am - 6:00pm",
-        "prices": "\u00a31 / hour"
-    },
-    {
-        "name": "Rundown quick parking",
-        "description": "A cool place to park",
-        "latitude": 52.58623539835489,
-        "longitude": -1.0572675834667893,
-        "openCloseTimes": "Monday : 6:30pm - 1:00am\nTeusday : 6:30pm - 1:00am\nWednesday : 6:30pm - 1:00am\nThursday : 6:30pm - 1:00am\nFriday : 6:30pm - 1:00am\nSaturday : 6:30pm - 1:00am\nSunday : 10:00am - 6:00pm",
-        "prices": "\u00a31 / hour"
-    },
-    {
-        "name": "Top parking",
-        "description": "A cool place to park",
-        "latitude": 52.59874111012909,
-        "longitude": -1.2209413429932148,
-        "openCloseTimes": "Monday : 6:30pm - 1:00am\nTeusday : 6:30pm - 1:00am\nWednesday : 6:30pm - 1:00am\nThursday : 6:30pm - 1:00am\nFriday : 6:30pm - 1:00am\nSaturday : 6:30pm - 1:00am\nSunday : 10:00am - 6:00pm",
-        "prices": "\u00a31 / hour"
-    },
-    {
-        "name": "Freemans park",
-        "description": "A cool place to park",
-        "latitude": 52.68260739791124,
-        "longitude": -1.088914384009525,
-        "openCloseTimes": "Monday : 6:30pm - 1:00am\nTeusday : 6:30pm - 1:00am\nWednesday : 6:30pm - 1:00am\nThursday : 6:30pm - 1:00am\nFriday : 6:30pm - 1:00am\nSaturday : 6:30pm - 1:00am\nSunday : 10:00am - 6:00pm",
-        "prices": "\u00a31 / hour"
-    },
-    {
-        "name": "Car protect quick parking",
-        "description": "A cool place to park",
-        "latitude": 52.65706792699777,
-        "longitude": -1.1129595031781814,
-        "openCloseTimes": "Monday : 6:30pm - 1:00am\nTeusday : 6:30pm - 1:00am\nWednesday : 6:30pm - 1:00am\nThursday : 6:30pm - 1:00am\nFriday : 6:30pm - 1:00am\nSaturday : 6:30pm - 1:00am\nSunday : 10:00am - 6:00pm",
-        "prices": "\u00a31 / hour"
-    },
-    {
-        "name": "Car protect quick parking",
-        "description": "A cool place to park",
-        "latitude": 52.6256691724295,
-        "longitude": -1.1580347750855997,
-        "openCloseTimes": "Monday : 6:30pm - 1:00am\nTeusday : 6:30pm - 1:00am\nWednesday : 6:30pm - 1:00am\nThursday : 6:30pm - 1:00am\nFriday : 6:30pm - 1:00am\nSaturday : 6:30pm - 1:00am\nSunday : 10:00am - 6:00pm",
-        "prices": "\u00a31 / hour"
-    },
-    {
-        "name": "Node.js quick parking",
-        "description": "A cool place to park",
-        "latitude": 52.599678645607476,
-        "longitude": -1.2189755810600218,
-        "openCloseTimes": "Monday : 6:30pm - 1:00am\nTeusday : 6:30pm - 1:00am\nWednesday : 6:30pm - 1:00am\nThursday : 6:30pm - 1:00am\nFriday : 6:30pm - 1:00am\nSaturday : 6:30pm - 1:00am\nSunday : 10:00am - 6:00pm",
-        "prices": "\u00a31 / hour"
-    },
-    {
-        "name": "Freemans parking lot",
-        "description": "A cool place to park",
-        "latitude": 52.69168468366535,
-        "longitude": -1.0781026456481637,
-        "openCloseTimes": "Monday : 6:30pm - 1:00am\nTeusday : 6:30pm - 1:00am\nWednesday : 6:30pm - 1:00am\nThursday : 6:30pm - 1:00am\nFriday : 6:30pm - 1:00am\nSaturday : 6:30pm - 1:00am\nSunday : 10:00am - 6:00pm",
-        "prices": "\u00a31 / hour"
-    },
-    {
-        "name": "LeicesterCS cheap parking",
-        "description": "A cool place to park",
-        "latitude": 52.65934212806263,
-        "longitude": -1.113434746278109,
-        "openCloseTimes": "Monday : 6:30pm - 1:00am\nTeusday : 6:30pm - 1:00am\nWednesday : 6:30pm - 1:00am\nThursday : 6:30pm - 1:00am\nFriday : 6:30pm - 1:00am\nSaturday : 6:30pm - 1:00am\nSunday : 10:00am - 6:00pm",
-        "prices": "\u00a31 / hour"
-    },
-    {
-        "name": "James' cheap parking",
-        "description": "A cool place to park",
-        "latitude": 52.606034345981264,
-        "longitude": -1.1614437567553462,
-        "openCloseTimes": "Monday : 6:30pm - 1:00am\nTeusday : 6:30pm - 1:00am\nWednesday : 6:30pm - 1:00am\nThursday : 6:30pm - 1:00am\nFriday : 6:30pm - 1:00am\nSaturday : 6:30pm - 1:00am\nSunday : 10:00am - 6:00pm",
-        "prices": "\u00a31 / hour"
-    },
-    {
-        "name": "Top park",
-        "description": "A cool place to park",
-        "latitude": 52.58384353592258,
-        "longitude": -1.1803192059677248,
-        "openCloseTimes": "Monday : 6:30pm - 1:00am\nTeusday : 6:30pm - 1:00am\nWednesday : 6:30pm - 1:00am\nThursday : 6:30pm - 1:00am\nFriday : 6:30pm - 1:00am\nSaturday : 6:30pm - 1:00am\nSunday : 10:00am - 6:00pm",
-        "prices": "\u00a31 / hour"
-    },
-    {
-        "name": "Top park",
-        "description": "A cool place to park",
-        "latitude": 52.648152849058235,
-        "longitude": -1.1255933177388642,
-        "openCloseTimes": "Monday : 6:30pm - 1:00am\nTeusday : 6:30pm - 1:00am\nWednesday : 6:30pm - 1:00am\nThursday : 6:30pm - 1:00am\nFriday : 6:30pm - 1:00am\nSaturday : 6:30pm - 1:00am\nSunday : 10:00am - 6:00pm",
-        "prices": "\u00a31 / hour"
-    },
-    {
-        "name": "LeicesterCS park",
-        "description": "A cool place to park",
-        "latitude": 52.689819774733216,
-        "longitude": -1.0674299895152017,
-        "openCloseTimes": "Monday : 6:30pm - 1:00am\nTeusday : 6:30pm - 1:00am\nWednesday : 6:30pm - 1:00am\nThursday : 6:30pm - 1:00am\nFriday : 6:30pm - 1:00am\nSaturday : 6:30pm - 1:00am\nSunday : 10:00am - 6:00pm",
-        "prices": "\u00a31 / hour"
-    },
-    {
-        "name": "Node.js parking lot",
-        "description": "A cool place to park",
-        "latitude": 52.65456310465758,
-        "longitude": -1.1616816746588168,
-        "openCloseTimes": "Monday : 6:30pm - 1:00am\nTeusday : 6:30pm - 1:00am\nWednesday : 6:30pm - 1:00am\nThursday : 6:30pm - 1:00am\nFriday : 6:30pm - 1:00am\nSaturday : 6:30pm - 1:00am\nSunday : 10:00am - 6:00pm",
-        "prices": "\u00a31 / hour"
-    },
-    {
-        "name": "Park and go cheap parking",
-        "description": "A cool place to park",
-        "latitude": 52.59101133249516,
-        "longitude": -1.1548615082681701,
-        "openCloseTimes": "Monday : 6:30pm - 1:00am\nTeusday : 6:30pm - 1:00am\nWednesday : 6:30pm - 1:00am\nThursday : 6:30pm - 1:00am\nFriday : 6:30pm - 1:00am\nSaturday : 6:30pm - 1:00am\nSunday : 10:00am - 6:00pm",
-        "prices": "\u00a31 / hour"
-    },
-    {
-        "name": "React park",
-        "description": "A cool place to park",
-        "latitude": 52.67575493849527,
-        "longitude": -1.0959611177966901,
-        "openCloseTimes": "Monday : 6:30pm - 1:00am\nTeusday : 6:30pm - 1:00am\nWednesday : 6:30pm - 1:00am\nThursday : 6:30pm - 1:00am\nFriday : 6:30pm - 1:00am\nSaturday : 6:30pm - 1:00am\nSunday : 10:00am - 6:00pm",
-        "prices": "\u00a31 / hour"
-    },
-    {
-        "name": "James' quick parking",
-        "description": "A cool place to park",
-        "latitude": 52.68724622573817,
-        "longitude": -1.1814906529436506,
-        "openCloseTimes": "Monday : 6:30pm - 1:00am\nTeusday : 6:30pm - 1:00am\nWednesday : 6:30pm - 1:00am\nThursday : 6:30pm - 1:00am\nFriday : 6:30pm - 1:00am\nSaturday : 6:30pm - 1:00am\nSunday : 10:00am - 6:00pm",
-        "prices": "\u00a31 / hour"
-    },
-    {
-        "name": "Safe park",
-        "description": "A cool place to park",
-        "latitude": 52.61606050944043,
-        "longitude": -1.1266556591217722,
-        "openCloseTimes": "Monday : 6:30pm - 1:00am\nTeusday : 6:30pm - 1:00am\nWednesday : 6:30pm - 1:00am\nThursday : 6:30pm - 1:00am\nFriday : 6:30pm - 1:00am\nSaturday : 6:30pm - 1:00am\nSunday : 10:00am - 6:00pm",
-        "prices": "\u00a31 / hour"
-    },
-    {
-        "name": "Node.js quick parking",
-        "description": "A cool place to park",
-        "latitude": 52.61904467887621,
-        "longitude": -1.2050008055266328,
-        "openCloseTimes": "Monday : 6:30pm - 1:00am\nTeusday : 6:30pm - 1:00am\nWednesday : 6:30pm - 1:00am\nThursday : 6:30pm - 1:00am\nFriday : 6:30pm - 1:00am\nSaturday : 6:30pm - 1:00am\nSunday : 10:00am - 6:00pm",
-        "prices": "\u00a31 / hour"
-    },
-    {
-        "name": "Cheap park",
-        "description": "A cool place to park",
-        "latitude": 52.57664419047049,
-        "longitude": -1.0756768356647066,
-        "openCloseTimes": "Monday : 6:30pm - 1:00am\nTeusday : 6:30pm - 1:00am\nWednesday : 6:30pm - 1:00am\nThursday : 6:30pm - 1:00am\nFriday : 6:30pm - 1:00am\nSaturday : 6:30pm - 1:00am\nSunday : 10:00am - 6:00pm",
-        "prices": "\u00a31 / hour"
-    },
-    {
-        "name": "React cheap parking",
-        "description": "A cool place to park",
-        "latitude": 52.59530534733263,
-        "longitude": -1.221797577238757,
-        "openCloseTimes": "Monday : 6:30pm - 1:00am\nTeusday : 6:30pm - 1:00am\nWednesday : 6:30pm - 1:00am\nThursday : 6:30pm - 1:00am\nFriday : 6:30pm - 1:00am\nSaturday : 6:30pm - 1:00am\nSunday : 10:00am - 6:00pm",
-        "prices": "\u00a31 / hour"
-    },
-    {
-        "name": "Node.js parking lot",
-        "description": "A cool place to park",
-        "latitude": 52.6614490966107,
-        "longitude": -1.166301632460604,
-        "openCloseTimes": "Monday : 6:30pm - 1:00am\nTeusday : 6:30pm - 1:00am\nWednesday : 6:30pm - 1:00am\nThursday : 6:30pm - 1:00am\nFriday : 6:30pm - 1:00am\nSaturday : 6:30pm - 1:00am\nSunday : 10:00am - 6:00pm",
-        "prices": "\u00a31 / hour"
-    },
-    {
-        "name": "React parking lot",
-        "description": "A cool place to park",
-        "latitude": 52.607305862239464,
-        "longitude": -1.2173349066330268,
-        "openCloseTimes": "Monday : 6:30pm - 1:00am\nTeusday : 6:30pm - 1:00am\nWednesday : 6:30pm - 1:00am\nThursday : 6:30pm - 1:00am\nFriday : 6:30pm - 1:00am\nSaturday : 6:30pm - 1:00am\nSunday : 10:00am - 6:00pm",
-        "prices": "\u00a31 / hour"
-    },
-    {
-        "name": "Quick parking lot",
-        "description": "A cool place to park",
-        "latitude": 52.632016368105674,
-        "longitude": -1.1042003318671472,
-        "openCloseTimes": "Monday : 6:30pm - 1:00am\nTeusday : 6:30pm - 1:00am\nWednesday : 6:30pm - 1:00am\nThursday : 6:30pm - 1:00am\nFriday : 6:30pm - 1:00am\nSaturday : 6:30pm - 1:00am\nSunday : 10:00am - 6:00pm",
-        "prices": "\u00a31 / hour"
-    },
-    {
-        "name": "Cheap cheap parking",
-        "description": "A cool place to park",
-        "latitude": 52.627251643884556,
-        "longitude": -1.2265759884258514,
-        "openCloseTimes": "Monday : 6:30pm - 1:00am\nTeusday : 6:30pm - 1:00am\nWednesday : 6:30pm - 1:00am\nThursday : 6:30pm - 1:00am\nFriday : 6:30pm - 1:00am\nSaturday : 6:30pm - 1:00am\nSunday : 10:00am - 6:00pm",
-        "prices": "\u00a31 / hour"
-    },
-    {
-        "name": "Node.js parking lot",
-        "description": "A cool place to park",
-        "latitude": 52.64538497070077,
-        "longitude": -1.2252249261074335,
-        "openCloseTimes": "Monday : 6:30pm - 1:00am\nTeusday : 6:30pm - 1:00am\nWednesday : 6:30pm - 1:00am\nThursday : 6:30pm - 1:00am\nFriday : 6:30pm - 1:00am\nSaturday : 6:30pm - 1:00am\nSunday : 10:00am - 6:00pm",
-        "prices": "\u00a31 / hour"
-    },
-    {
-        "name": "Best park",
-        "description": "A cool place to park",
-        "latitude": 52.628224302592386,
-        "longitude": -1.2212345457729972,
-        "openCloseTimes": "Monday : 6:30pm - 1:00am\nTeusday : 6:30pm - 1:00am\nWednesday : 6:30pm - 1:00am\nThursday : 6:30pm - 1:00am\nFriday : 6:30pm - 1:00am\nSaturday : 6:30pm - 1:00am\nSunday : 10:00am - 6:00pm",
-        "prices": "\u00a31 / hour"
-    },
-    {
-        "name": "Quick quick parking",
-        "description": "A cool place to park",
-        "latitude": 52.65158647432654,
-        "longitude": -1.0898831697267257,
-        "openCloseTimes": "Monday : 6:30pm - 1:00am\nTeusday : 6:30pm - 1:00am\nWednesday : 6:30pm - 1:00am\nThursday : 6:30pm - 1:00am\nFriday : 6:30pm - 1:00am\nSaturday : 6:30pm - 1:00am\nSunday : 10:00am - 6:00pm",
-        "prices": "\u00a31 / hour"
-    },
-    {
-        "name": "New house parking",
-        "description": "A cool place to park",
-        "latitude": 52.646956662264685,
-        "longitude": -1.2213729923541967,
-        "openCloseTimes": "Monday : 6:30pm - 1:00am\nTeusday : 6:30pm - 1:00am\nWednesday : 6:30pm - 1:00am\nThursday : 6:30pm - 1:00am\nFriday : 6:30pm - 1:00am\nSaturday : 6:30pm - 1:00am\nSunday : 10:00am - 6:00pm",
-        "prices": "\u00a31 / hour"
-    },
-    {
-        "name": "Node.js multi-story car park",
-        "description": "A cool place to park",
-        "latitude": 52.67848948997822,
-        "longitude": -1.133047032210453,
-        "openCloseTimes": "Monday : 6:30pm - 1:00am\nTeusday : 6:30pm - 1:00am\nWednesday : 6:30pm - 1:00am\nThursday : 6:30pm - 1:00am\nFriday : 6:30pm - 1:00am\nSaturday : 6:30pm - 1:00am\nSunday : 10:00am - 6:00pm",
-        "prices": "\u00a31 / hour"
-    },
-    {
-        "name": "Cheap car storage",
-        "description": "A cool place to park",
-        "latitude": 52.63722145911062,
-        "longitude": -1.1999953390125282,
-        "openCloseTimes": "Monday : 6:30pm - 1:00am\nTeusday : 6:30pm - 1:00am\nWednesday : 6:30pm - 1:00am\nThursday : 6:30pm - 1:00am\nFriday : 6:30pm - 1:00am\nSaturday : 6:30pm - 1:00am\nSunday : 10:00am - 6:00pm",
-        "prices": "\u00a31 / hour"
-    },
-    {
-        "name": "Park and go parking",
-        "description": "A cool place to park",
-        "latitude": 52.642521062029736,
-        "longitude": -1.2153925181589629,
-        "openCloseTimes": "Monday : 6:30pm - 1:00am\nTeusday : 6:30pm - 1:00am\nWednesday : 6:30pm - 1:00am\nThursday : 6:30pm - 1:00am\nFriday : 6:30pm - 1:00am\nSaturday : 6:30pm - 1:00am\nSunday : 10:00am - 6:00pm",
-        "prices": "\u00a31 / hour"
-    },
-    {
-        "name": "React multi-story car park",
-        "description": "A cool place to park",
-        "latitude": 52.68238410957296,
-        "longitude": -1.0481991845906669,
-        "openCloseTimes": "Monday : 6:30pm - 1:00am\nTeusday : 6:30pm - 1:00am\nWednesday : 6:30pm - 1:00am\nThursday : 6:30pm - 1:00am\nFriday : 6:30pm - 1:00am\nSaturday : 6:30pm - 1:00am\nSunday : 10:00am - 6:00pm",
+        "latitude": 52.68880857693336,
+        "longitude": -1.1234655721975992,
+        "openCloseTimes": "Monday : 6:30pm - 1:00am<br>Tuesday : 6:30pm - 1:00am<br>Wednesday : 6:30pm - 1:00am<br>Thursday : 6:30pm - 1:00am<br>Friday : 6:30pm - 1:00am<br>Saturday : 6:30pm - 1:00am<br>Sunday : 10:00am - 6:00pm",
         "prices": "\u00a31 / hour"
     },
     {
         "name": "James' car storage",
         "description": "A cool place to park",
-        "latitude": 52.576619372790155,
-        "longitude": -1.0898918868745286,
-        "openCloseTimes": "Monday : 6:30pm - 1:00am\nTeusday : 6:30pm - 1:00am\nWednesday : 6:30pm - 1:00am\nThursday : 6:30pm - 1:00am\nFriday : 6:30pm - 1:00am\nSaturday : 6:30pm - 1:00am\nSunday : 10:00am - 6:00pm",
+        "latitude": 52.66890856508839,
+        "longitude": -1.0518266283769435,
+        "openCloseTimes": "Monday : 6:30pm - 1:00am<br>Tuesday : 6:30pm - 1:00am<br>Wednesday : 6:30pm - 1:00am<br>Thursday : 6:30pm - 1:00am<br>Friday : 6:30pm - 1:00am<br>Saturday : 6:30pm - 1:00am<br>Sunday : 10:00am - 6:00pm",
+        "prices": "\u00a31 / hour"
+    },
+    {
+        "name": "React parking",
+        "description": "A cool place to park",
+        "latitude": 52.62006102274595,
+        "longitude": -1.2225316095015244,
+        "openCloseTimes": "Monday : 6:30pm - 1:00am<br>Tuesday : 6:30pm - 1:00am<br>Wednesday : 6:30pm - 1:00am<br>Thursday : 6:30pm - 1:00am<br>Friday : 6:30pm - 1:00am<br>Saturday : 6:30pm - 1:00am<br>Sunday : 10:00am - 6:00pm",
+        "prices": "\u00a31 / hour"
+    },
+    {
+        "name": "LeicesterCS parking",
+        "description": "A cool place to park",
+        "latitude": 52.685567668826614,
+        "longitude": -1.0829298341481315,
+        "openCloseTimes": "Monday : 6:30pm - 1:00am<br>Tuesday : 6:30pm - 1:00am<br>Wednesday : 6:30pm - 1:00am<br>Thursday : 6:30pm - 1:00am<br>Friday : 6:30pm - 1:00am<br>Saturday : 6:30pm - 1:00am<br>Sunday : 10:00am - 6:00pm",
+        "prices": "\u00a31 / hour"
+    },
+    {
+        "name": "LeicesterCS car storage",
+        "description": "A cool place to park",
+        "latitude": 52.615066984694984,
+        "longitude": -1.1197969247271848,
+        "openCloseTimes": "Monday : 6:30pm - 1:00am<br>Tuesday : 6:30pm - 1:00am<br>Wednesday : 6:30pm - 1:00am<br>Thursday : 6:30pm - 1:00am<br>Friday : 6:30pm - 1:00am<br>Saturday : 6:30pm - 1:00am<br>Sunday : 10:00am - 6:00pm",
+        "prices": "\u00a31 / hour"
+    },
+    {
+        "name": "New house parking",
+        "description": "A cool place to park",
+        "latitude": 52.60542012415374,
+        "longitude": -1.2148498765837343,
+        "openCloseTimes": "Monday : 6:30pm - 1:00am<br>Tuesday : 6:30pm - 1:00am<br>Wednesday : 6:30pm - 1:00am<br>Thursday : 6:30pm - 1:00am<br>Friday : 6:30pm - 1:00am<br>Saturday : 6:30pm - 1:00am<br>Sunday : 10:00am - 6:00pm",
+        "prices": "\u00a31 / hour"
+    },
+    {
+        "name": "James' cheap parking",
+        "description": "A cool place to park",
+        "latitude": 52.60671313655678,
+        "longitude": -1.0498583817181961,
+        "openCloseTimes": "Monday : 6:30pm - 1:00am<br>Tuesday : 6:30pm - 1:00am<br>Wednesday : 6:30pm - 1:00am<br>Thursday : 6:30pm - 1:00am<br>Friday : 6:30pm - 1:00am<br>Saturday : 6:30pm - 1:00am<br>Sunday : 10:00am - 6:00pm",
+        "prices": "\u00a31 / hour"
+    },
+    {
+        "name": "Node.js multi-story car park",
+        "description": "A cool place to park",
+        "latitude": 52.66659972617463,
+        "longitude": -1.1907866684688,
+        "openCloseTimes": "Monday : 6:30pm - 1:00am<br>Tuesday : 6:30pm - 1:00am<br>Wednesday : 6:30pm - 1:00am<br>Thursday : 6:30pm - 1:00am<br>Friday : 6:30pm - 1:00am<br>Saturday : 6:30pm - 1:00am<br>Sunday : 10:00am - 6:00pm",
+        "prices": "\u00a31 / hour"
+    },
+    {
+        "name": "Best quick parking",
+        "description": "A cool place to park",
+        "latitude": 52.664406000372736,
+        "longitude": -1.1837985877360877,
+        "openCloseTimes": "Monday : 6:30pm - 1:00am<br>Tuesday : 6:30pm - 1:00am<br>Wednesday : 6:30pm - 1:00am<br>Thursday : 6:30pm - 1:00am<br>Friday : 6:30pm - 1:00am<br>Saturday : 6:30pm - 1:00am<br>Sunday : 10:00am - 6:00pm",
+        "prices": "\u00a31 / hour"
+    },
+    {
+        "name": "James' multi-story car park",
+        "description": "A cool place to park",
+        "latitude": 52.61422850361648,
+        "longitude": -1.1462479415742601,
+        "openCloseTimes": "Monday : 6:30pm - 1:00am<br>Tuesday : 6:30pm - 1:00am<br>Wednesday : 6:30pm - 1:00am<br>Thursday : 6:30pm - 1:00am<br>Friday : 6:30pm - 1:00am<br>Saturday : 6:30pm - 1:00am<br>Sunday : 10:00am - 6:00pm",
+        "prices": "\u00a31 / hour"
+    },
+    {
+        "name": "Best parking",
+        "description": "A cool place to park",
+        "latitude": 52.627892151101335,
+        "longitude": -1.121459877961049,
+        "openCloseTimes": "Monday : 6:30pm - 1:00am<br>Tuesday : 6:30pm - 1:00am<br>Wednesday : 6:30pm - 1:00am<br>Thursday : 6:30pm - 1:00am<br>Friday : 6:30pm - 1:00am<br>Saturday : 6:30pm - 1:00am<br>Sunday : 10:00am - 6:00pm",
+        "prices": "\u00a31 / hour"
+    },
+    {
+        "name": "Park and go cheap parking",
+        "description": "A cool place to park",
+        "latitude": 52.64934164009286,
+        "longitude": -1.1389544296074705,
+        "openCloseTimes": "Monday : 6:30pm - 1:00am<br>Tuesday : 6:30pm - 1:00am<br>Wednesday : 6:30pm - 1:00am<br>Thursday : 6:30pm - 1:00am<br>Friday : 6:30pm - 1:00am<br>Saturday : 6:30pm - 1:00am<br>Sunday : 10:00am - 6:00pm",
+        "prices": "\u00a31 / hour"
+    },
+    {
+        "name": "Best park",
+        "description": "A cool place to park",
+        "latitude": 52.59252836402106,
+        "longitude": -1.1348773151689668,
+        "openCloseTimes": "Monday : 6:30pm - 1:00am<br>Tuesday : 6:30pm - 1:00am<br>Wednesday : 6:30pm - 1:00am<br>Thursday : 6:30pm - 1:00am<br>Friday : 6:30pm - 1:00am<br>Saturday : 6:30pm - 1:00am<br>Sunday : 10:00am - 6:00pm",
+        "prices": "\u00a31 / hour"
+    },
+    {
+        "name": "Car protect parking",
+        "description": "A cool place to park",
+        "latitude": 52.66677068282731,
+        "longitude": -1.1516658757774183,
+        "openCloseTimes": "Monday : 6:30pm - 1:00am<br>Tuesday : 6:30pm - 1:00am<br>Wednesday : 6:30pm - 1:00am<br>Thursday : 6:30pm - 1:00am<br>Friday : 6:30pm - 1:00am<br>Saturday : 6:30pm - 1:00am<br>Sunday : 10:00am - 6:00pm",
+        "prices": "\u00a31 / hour"
+    },
+    {
+        "name": "Safe car storage",
+        "description": "A cool place to park",
+        "latitude": 52.6270726314493,
+        "longitude": -1.1533721941925454,
+        "openCloseTimes": "Monday : 6:30pm - 1:00am<br>Tuesday : 6:30pm - 1:00am<br>Wednesday : 6:30pm - 1:00am<br>Thursday : 6:30pm - 1:00am<br>Friday : 6:30pm - 1:00am<br>Saturday : 6:30pm - 1:00am<br>Sunday : 10:00am - 6:00pm",
         "prices": "\u00a31 / hour"
     },
     {
         "name": "Node.js parking",
         "description": "A cool place to park",
-        "latitude": 52.68240919216951,
-        "longitude": -1.213029460231967,
-        "openCloseTimes": "Monday : 6:30pm - 1:00am\nTeusday : 6:30pm - 1:00am\nWednesday : 6:30pm - 1:00am\nThursday : 6:30pm - 1:00am\nFriday : 6:30pm - 1:00am\nSaturday : 6:30pm - 1:00am\nSunday : 10:00am - 6:00pm",
-        "prices": "\u00a31 / hour"
-    },
-    {
-        "name": "Cheap parking lot",
-        "description": "A cool place to park",
-        "latitude": 52.60463566484014,
-        "longitude": -1.1086384816657222,
-        "openCloseTimes": "Monday : 6:30pm - 1:00am\nTeusday : 6:30pm - 1:00am\nWednesday : 6:30pm - 1:00am\nThursday : 6:30pm - 1:00am\nFriday : 6:30pm - 1:00am\nSaturday : 6:30pm - 1:00am\nSunday : 10:00am - 6:00pm",
-        "prices": "\u00a31 / hour"
-    },
-    {
-        "name": "New house car storage",
-        "description": "A cool place to park",
-        "latitude": 52.68933667219561,
-        "longitude": -1.1021554996433667,
-        "openCloseTimes": "Monday : 6:30pm - 1:00am\nTeusday : 6:30pm - 1:00am\nWednesday : 6:30pm - 1:00am\nThursday : 6:30pm - 1:00am\nFriday : 6:30pm - 1:00am\nSaturday : 6:30pm - 1:00am\nSunday : 10:00am - 6:00pm",
-        "prices": "\u00a31 / hour"
-    },
-    {
-        "name": "Cheap multi-story car park",
-        "description": "A cool place to park",
-        "latitude": 52.60162504244466,
-        "longitude": -1.1582822028148516,
-        "openCloseTimes": "Monday : 6:30pm - 1:00am\nTeusday : 6:30pm - 1:00am\nWednesday : 6:30pm - 1:00am\nThursday : 6:30pm - 1:00am\nFriday : 6:30pm - 1:00am\nSaturday : 6:30pm - 1:00am\nSunday : 10:00am - 6:00pm",
-        "prices": "\u00a31 / hour"
-    },
-    {
-        "name": "Top quick parking",
-        "description": "A cool place to park",
-        "latitude": 52.69152756508972,
-        "longitude": -1.10836679325566,
-        "openCloseTimes": "Monday : 6:30pm - 1:00am\nTeusday : 6:30pm - 1:00am\nWednesday : 6:30pm - 1:00am\nThursday : 6:30pm - 1:00am\nFriday : 6:30pm - 1:00am\nSaturday : 6:30pm - 1:00am\nSunday : 10:00am - 6:00pm",
-        "prices": "\u00a31 / hour"
-    },
-    {
-        "name": "Node.js car storage",
-        "description": "A cool place to park",
-        "latitude": 52.65138646300223,
-        "longitude": -1.178945706805557,
-        "openCloseTimes": "Monday : 6:30pm - 1:00am\nTeusday : 6:30pm - 1:00am\nWednesday : 6:30pm - 1:00am\nThursday : 6:30pm - 1:00am\nFriday : 6:30pm - 1:00am\nSaturday : 6:30pm - 1:00am\nSunday : 10:00am - 6:00pm",
-        "prices": "\u00a31 / hour"
-    },
-    {
-        "name": "Safe cheap parking",
-        "description": "A cool place to park",
-        "latitude": 52.677540954902106,
-        "longitude": -1.160042126464825,
-        "openCloseTimes": "Monday : 6:30pm - 1:00am\nTeusday : 6:30pm - 1:00am\nWednesday : 6:30pm - 1:00am\nThursday : 6:30pm - 1:00am\nFriday : 6:30pm - 1:00am\nSaturday : 6:30pm - 1:00am\nSunday : 10:00am - 6:00pm",
-        "prices": "\u00a31 / hour"
-    },
-    {
-        "name": "React parking lot",
-        "description": "A cool place to park",
-        "latitude": 52.61896770922059,
-        "longitude": -1.1942626773166425,
-        "openCloseTimes": "Monday : 6:30pm - 1:00am\nTeusday : 6:30pm - 1:00am\nWednesday : 6:30pm - 1:00am\nThursday : 6:30pm - 1:00am\nFriday : 6:30pm - 1:00am\nSaturday : 6:30pm - 1:00am\nSunday : 10:00am - 6:00pm",
+        "latitude": 52.66314095458575,
+        "longitude": -1.0738133492562714,
+        "openCloseTimes": "Monday : 6:30pm - 1:00am<br>Tuesday : 6:30pm - 1:00am<br>Wednesday : 6:30pm - 1:00am<br>Thursday : 6:30pm - 1:00am<br>Friday : 6:30pm - 1:00am<br>Saturday : 6:30pm - 1:00am<br>Sunday : 10:00am - 6:00pm",
         "prices": "\u00a31 / hour"
     },
     {
         "name": "Car protect car storage",
         "description": "A cool place to park",
-        "latitude": 52.5916018118532,
-        "longitude": -1.0760093499873564,
-        "openCloseTimes": "Monday : 6:30pm - 1:00am\nTeusday : 6:30pm - 1:00am\nWednesday : 6:30pm - 1:00am\nThursday : 6:30pm - 1:00am\nFriday : 6:30pm - 1:00am\nSaturday : 6:30pm - 1:00am\nSunday : 10:00am - 6:00pm",
+        "latitude": 52.58741346510907,
+        "longitude": -1.1108262585040654,
+        "openCloseTimes": "Monday : 6:30pm - 1:00am<br>Tuesday : 6:30pm - 1:00am<br>Wednesday : 6:30pm - 1:00am<br>Thursday : 6:30pm - 1:00am<br>Friday : 6:30pm - 1:00am<br>Saturday : 6:30pm - 1:00am<br>Sunday : 10:00am - 6:00pm",
         "prices": "\u00a31 / hour"
     },
     {
-        "name": "Expensivemans cheap parking",
+        "name": "Safe parking lot",
         "description": "A cool place to park",
-        "latitude": 52.64812163791165,
-        "longitude": -1.2011477656582632,
-        "openCloseTimes": "Monday : 6:30pm - 1:00am\nTeusday : 6:30pm - 1:00am\nWednesday : 6:30pm - 1:00am\nThursday : 6:30pm - 1:00am\nFriday : 6:30pm - 1:00am\nSaturday : 6:30pm - 1:00am\nSunday : 10:00am - 6:00pm",
+        "latitude": 52.67438314320529,
+        "longitude": -1.1773784138398762,
+        "openCloseTimes": "Monday : 6:30pm - 1:00am<br>Tuesday : 6:30pm - 1:00am<br>Wednesday : 6:30pm - 1:00am<br>Thursday : 6:30pm - 1:00am<br>Friday : 6:30pm - 1:00am<br>Saturday : 6:30pm - 1:00am<br>Sunday : 10:00am - 6:00pm",
         "prices": "\u00a31 / hour"
     },
     {
-        "name": "Safe quick parking",
+        "name": "James' parking",
         "description": "A cool place to park",
-        "latitude": 52.66776859146459,
-        "longitude": -1.2074310580660812,
-        "openCloseTimes": "Monday : 6:30pm - 1:00am\nTeusday : 6:30pm - 1:00am\nWednesday : 6:30pm - 1:00am\nThursday : 6:30pm - 1:00am\nFriday : 6:30pm - 1:00am\nSaturday : 6:30pm - 1:00am\nSunday : 10:00am - 6:00pm",
+        "latitude": 52.672780060232974,
+        "longitude": -1.0897236392691694,
+        "openCloseTimes": "Monday : 6:30pm - 1:00am<br>Tuesday : 6:30pm - 1:00am<br>Wednesday : 6:30pm - 1:00am<br>Thursday : 6:30pm - 1:00am<br>Friday : 6:30pm - 1:00am<br>Saturday : 6:30pm - 1:00am<br>Sunday : 10:00am - 6:00pm",
         "prices": "\u00a31 / hour"
     },
     {
-        "name": "Quick parking",
+        "name": "Freemans park",
         "description": "A cool place to park",
-        "latitude": 52.58976456054171,
-        "longitude": -1.2253343616826449,
-        "openCloseTimes": "Monday : 6:30pm - 1:00am\nTeusday : 6:30pm - 1:00am\nWednesday : 6:30pm - 1:00am\nThursday : 6:30pm - 1:00am\nFriday : 6:30pm - 1:00am\nSaturday : 6:30pm - 1:00am\nSunday : 10:00am - 6:00pm",
+        "latitude": 52.613052832259015,
+        "longitude": -1.0582362810687196,
+        "openCloseTimes": "Monday : 6:30pm - 1:00am<br>Tuesday : 6:30pm - 1:00am<br>Wednesday : 6:30pm - 1:00am<br>Thursday : 6:30pm - 1:00am<br>Friday : 6:30pm - 1:00am<br>Saturday : 6:30pm - 1:00am<br>Sunday : 10:00am - 6:00pm",
         "prices": "\u00a31 / hour"
     },
     {
-        "name": "Park and go quick parking",
+        "name": "React quick parking",
         "description": "A cool place to park",
-        "latitude": 52.57334920757787,
-        "longitude": -1.1854949731512772,
-        "openCloseTimes": "Monday : 6:30pm - 1:00am\nTeusday : 6:30pm - 1:00am\nWednesday : 6:30pm - 1:00am\nThursday : 6:30pm - 1:00am\nFriday : 6:30pm - 1:00am\nSaturday : 6:30pm - 1:00am\nSunday : 10:00am - 6:00pm",
+        "latitude": 52.61975524378345,
+        "longitude": -1.1589124782093123,
+        "openCloseTimes": "Monday : 6:30pm - 1:00am<br>Tuesday : 6:30pm - 1:00am<br>Wednesday : 6:30pm - 1:00am<br>Thursday : 6:30pm - 1:00am<br>Friday : 6:30pm - 1:00am<br>Saturday : 6:30pm - 1:00am<br>Sunday : 10:00am - 6:00pm",
+        "prices": "\u00a31 / hour"
+    },
+    {
+        "name": "Quick multi-story car park",
+        "description": "A cool place to park",
+        "latitude": 52.67696564364387,
+        "longitude": -1.130257505633833,
+        "openCloseTimes": "Monday : 6:30pm - 1:00am<br>Tuesday : 6:30pm - 1:00am<br>Wednesday : 6:30pm - 1:00am<br>Thursday : 6:30pm - 1:00am<br>Friday : 6:30pm - 1:00am<br>Saturday : 6:30pm - 1:00am<br>Sunday : 10:00am - 6:00pm",
+        "prices": "\u00a31 / hour"
+    },
+    {
+        "name": "Node.js parking lot",
+        "description": "A cool place to park",
+        "latitude": 52.57235307370513,
+        "longitude": -1.1004735244107606,
+        "openCloseTimes": "Monday : 6:30pm - 1:00am<br>Tuesday : 6:30pm - 1:00am<br>Wednesday : 6:30pm - 1:00am<br>Thursday : 6:30pm - 1:00am<br>Friday : 6:30pm - 1:00am<br>Saturday : 6:30pm - 1:00am<br>Sunday : 10:00am - 6:00pm",
+        "prices": "\u00a31 / hour"
+    },
+    {
+        "name": "Expensivemans parking",
+        "description": "A cool place to park",
+        "latitude": 52.658654310444426,
+        "longitude": -1.0823182588583982,
+        "openCloseTimes": "Monday : 6:30pm - 1:00am<br>Tuesday : 6:30pm - 1:00am<br>Wednesday : 6:30pm - 1:00am<br>Thursday : 6:30pm - 1:00am<br>Friday : 6:30pm - 1:00am<br>Saturday : 6:30pm - 1:00am<br>Sunday : 10:00am - 6:00pm",
+        "prices": "\u00a31 / hour"
+    },
+    {
+        "name": "Best quick parking",
+        "description": "A cool place to park",
+        "latitude": 52.68929324503519,
+        "longitude": -1.0425560327091579,
+        "openCloseTimes": "Monday : 6:30pm - 1:00am<br>Tuesday : 6:30pm - 1:00am<br>Wednesday : 6:30pm - 1:00am<br>Thursday : 6:30pm - 1:00am<br>Friday : 6:30pm - 1:00am<br>Saturday : 6:30pm - 1:00am<br>Sunday : 10:00am - 6:00pm",
+        "prices": "\u00a31 / hour"
+    },
+    {
+        "name": "Freemans park",
+        "description": "A cool place to park",
+        "latitude": 52.6820453417707,
+        "longitude": -1.0802276558784016,
+        "openCloseTimes": "Monday : 6:30pm - 1:00am<br>Tuesday : 6:30pm - 1:00am<br>Wednesday : 6:30pm - 1:00am<br>Thursday : 6:30pm - 1:00am<br>Friday : 6:30pm - 1:00am<br>Saturday : 6:30pm - 1:00am<br>Sunday : 10:00am - 6:00pm",
+        "prices": "\u00a31 / hour"
+    },
+    {
+        "name": "Car protect park",
+        "description": "A cool place to park",
+        "latitude": 52.692235784739545,
+        "longitude": -1.1296326619918444,
+        "openCloseTimes": "Monday : 6:30pm - 1:00am<br>Tuesday : 6:30pm - 1:00am<br>Wednesday : 6:30pm - 1:00am<br>Thursday : 6:30pm - 1:00am<br>Friday : 6:30pm - 1:00am<br>Saturday : 6:30pm - 1:00am<br>Sunday : 10:00am - 6:00pm",
+        "prices": "\u00a31 / hour"
+    },
+    {
+        "name": "Cheap park",
+        "description": "A cool place to park",
+        "latitude": 52.61055593464204,
+        "longitude": -1.188551697901986,
+        "openCloseTimes": "Monday : 6:30pm - 1:00am<br>Tuesday : 6:30pm - 1:00am<br>Wednesday : 6:30pm - 1:00am<br>Thursday : 6:30pm - 1:00am<br>Friday : 6:30pm - 1:00am<br>Saturday : 6:30pm - 1:00am<br>Sunday : 10:00am - 6:00pm",
+        "prices": "\u00a31 / hour"
+    },
+    {
+        "name": "LeicesterCS cheap parking",
+        "description": "A cool place to park",
+        "latitude": 52.66453443265557,
+        "longitude": -1.1838851125520935,
+        "openCloseTimes": "Monday : 6:30pm - 1:00am<br>Tuesday : 6:30pm - 1:00am<br>Wednesday : 6:30pm - 1:00am<br>Thursday : 6:30pm - 1:00am<br>Friday : 6:30pm - 1:00am<br>Saturday : 6:30pm - 1:00am<br>Sunday : 10:00am - 6:00pm",
+        "prices": "\u00a31 / hour"
+    },
+    {
+        "name": "Freemans quick parking",
+        "description": "A cool place to park",
+        "latitude": 52.64833301132696,
+        "longitude": -1.1309200091085936,
+        "openCloseTimes": "Monday : 6:30pm - 1:00am<br>Tuesday : 6:30pm - 1:00am<br>Wednesday : 6:30pm - 1:00am<br>Thursday : 6:30pm - 1:00am<br>Friday : 6:30pm - 1:00am<br>Saturday : 6:30pm - 1:00am<br>Sunday : 10:00am - 6:00pm",
         "prices": "\u00a31 / hour"
     },
     {
         "name": "LeicesterCS park",
         "description": "A cool place to park",
-        "latitude": 52.662236177545815,
-        "longitude": -1.088204345224776,
-        "openCloseTimes": "Monday : 6:30pm - 1:00am\nTeusday : 6:30pm - 1:00am\nWednesday : 6:30pm - 1:00am\nThursday : 6:30pm - 1:00am\nFriday : 6:30pm - 1:00am\nSaturday : 6:30pm - 1:00am\nSunday : 10:00am - 6:00pm",
+        "latitude": 52.624987777496784,
+        "longitude": -1.1917048148705587,
+        "openCloseTimes": "Monday : 6:30pm - 1:00am<br>Tuesday : 6:30pm - 1:00am<br>Wednesday : 6:30pm - 1:00am<br>Thursday : 6:30pm - 1:00am<br>Friday : 6:30pm - 1:00am<br>Saturday : 6:30pm - 1:00am<br>Sunday : 10:00am - 6:00pm",
+        "prices": "\u00a31 / hour"
+    },
+    {
+        "name": "James' multi-story car park",
+        "description": "A cool place to park",
+        "latitude": 52.66241621410121,
+        "longitude": -1.134941573326343,
+        "openCloseTimes": "Monday : 6:30pm - 1:00am<br>Tuesday : 6:30pm - 1:00am<br>Wednesday : 6:30pm - 1:00am<br>Thursday : 6:30pm - 1:00am<br>Friday : 6:30pm - 1:00am<br>Saturday : 6:30pm - 1:00am<br>Sunday : 10:00am - 6:00pm",
+        "prices": "\u00a31 / hour"
+    },
+    {
+        "name": "Top multi-story car park",
+        "description": "A cool place to park",
+        "latitude": 52.62524952599859,
+        "longitude": -1.1813182821520596,
+        "openCloseTimes": "Monday : 6:30pm - 1:00am<br>Tuesday : 6:30pm - 1:00am<br>Wednesday : 6:30pm - 1:00am<br>Thursday : 6:30pm - 1:00am<br>Friday : 6:30pm - 1:00am<br>Saturday : 6:30pm - 1:00am<br>Sunday : 10:00am - 6:00pm",
+        "prices": "\u00a31 / hour"
+    },
+    {
+        "name": "Park and go parking",
+        "description": "A cool place to park",
+        "latitude": 52.63890610951446,
+        "longitude": -1.0687827026009198,
+        "openCloseTimes": "Monday : 6:30pm - 1:00am<br>Tuesday : 6:30pm - 1:00am<br>Wednesday : 6:30pm - 1:00am<br>Thursday : 6:30pm - 1:00am<br>Friday : 6:30pm - 1:00am<br>Saturday : 6:30pm - 1:00am<br>Sunday : 10:00am - 6:00pm",
+        "prices": "\u00a31 / hour"
+    },
+    {
+        "name": "Quick quick parking",
+        "description": "A cool place to park",
+        "latitude": 52.615264184248886,
+        "longitude": -1.1518809104457635,
+        "openCloseTimes": "Monday : 6:30pm - 1:00am<br>Tuesday : 6:30pm - 1:00am<br>Wednesday : 6:30pm - 1:00am<br>Thursday : 6:30pm - 1:00am<br>Friday : 6:30pm - 1:00am<br>Saturday : 6:30pm - 1:00am<br>Sunday : 10:00am - 6:00pm",
+        "prices": "\u00a31 / hour"
+    },
+    {
+        "name": "Cheap car storage",
+        "description": "A cool place to park",
+        "latitude": 52.65424787959117,
+        "longitude": -1.1443283058566724,
+        "openCloseTimes": "Monday : 6:30pm - 1:00am<br>Tuesday : 6:30pm - 1:00am<br>Wednesday : 6:30pm - 1:00am<br>Thursday : 6:30pm - 1:00am<br>Friday : 6:30pm - 1:00am<br>Saturday : 6:30pm - 1:00am<br>Sunday : 10:00am - 6:00pm",
+        "prices": "\u00a31 / hour"
+    },
+    {
+        "name": "Rundown multi-story car park",
+        "description": "A cool place to park",
+        "latitude": 52.63294967421857,
+        "longitude": -1.2061807277837775,
+        "openCloseTimes": "Monday : 6:30pm - 1:00am<br>Tuesday : 6:30pm - 1:00am<br>Wednesday : 6:30pm - 1:00am<br>Thursday : 6:30pm - 1:00am<br>Friday : 6:30pm - 1:00am<br>Saturday : 6:30pm - 1:00am<br>Sunday : 10:00am - 6:00pm",
+        "prices": "\u00a31 / hour"
+    },
+    {
+        "name": "Car protect multi-story car park",
+        "description": "A cool place to park",
+        "latitude": 52.58979789973362,
+        "longitude": -1.1107190470845276,
+        "openCloseTimes": "Monday : 6:30pm - 1:00am<br>Tuesday : 6:30pm - 1:00am<br>Wednesday : 6:30pm - 1:00am<br>Thursday : 6:30pm - 1:00am<br>Friday : 6:30pm - 1:00am<br>Saturday : 6:30pm - 1:00am<br>Sunday : 10:00am - 6:00pm",
+        "prices": "\u00a31 / hour"
+    },
+    {
+        "name": "Safe cheap parking",
+        "description": "A cool place to park",
+        "latitude": 52.6701395006119,
+        "longitude": -1.1417559124197247,
+        "openCloseTimes": "Monday : 6:30pm - 1:00am<br>Tuesday : 6:30pm - 1:00am<br>Wednesday : 6:30pm - 1:00am<br>Thursday : 6:30pm - 1:00am<br>Friday : 6:30pm - 1:00am<br>Saturday : 6:30pm - 1:00am<br>Sunday : 10:00am - 6:00pm",
+        "prices": "\u00a31 / hour"
+    },
+    {
+        "name": "Quick parking",
+        "description": "A cool place to park",
+        "latitude": 52.61086977939834,
+        "longitude": -1.1670857529048446,
+        "openCloseTimes": "Monday : 6:30pm - 1:00am<br>Tuesday : 6:30pm - 1:00am<br>Wednesday : 6:30pm - 1:00am<br>Thursday : 6:30pm - 1:00am<br>Friday : 6:30pm - 1:00am<br>Saturday : 6:30pm - 1:00am<br>Sunday : 10:00am - 6:00pm",
+        "prices": "\u00a31 / hour"
+    },
+    {
+        "name": "Car protect cheap parking",
+        "description": "A cool place to park",
+        "latitude": 52.683716375996795,
+        "longitude": -1.1073666235736732,
+        "openCloseTimes": "Monday : 6:30pm - 1:00am<br>Tuesday : 6:30pm - 1:00am<br>Wednesday : 6:30pm - 1:00am<br>Thursday : 6:30pm - 1:00am<br>Friday : 6:30pm - 1:00am<br>Saturday : 6:30pm - 1:00am<br>Sunday : 10:00am - 6:00pm",
+        "prices": "\u00a31 / hour"
+    },
+    {
+        "name": "Cheap parking lot",
+        "description": "A cool place to park",
+        "latitude": 52.63938828284638,
+        "longitude": -1.098678169108986,
+        "openCloseTimes": "Monday : 6:30pm - 1:00am<br>Tuesday : 6:30pm - 1:00am<br>Wednesday : 6:30pm - 1:00am<br>Thursday : 6:30pm - 1:00am<br>Friday : 6:30pm - 1:00am<br>Saturday : 6:30pm - 1:00am<br>Sunday : 10:00am - 6:00pm",
+        "prices": "\u00a31 / hour"
+    },
+    {
+        "name": "Rundown quick parking",
+        "description": "A cool place to park",
+        "latitude": 52.602924370205656,
+        "longitude": -1.1119383145133988,
+        "openCloseTimes": "Monday : 6:30pm - 1:00am<br>Tuesday : 6:30pm - 1:00am<br>Wednesday : 6:30pm - 1:00am<br>Thursday : 6:30pm - 1:00am<br>Friday : 6:30pm - 1:00am<br>Saturday : 6:30pm - 1:00am<br>Sunday : 10:00am - 6:00pm",
+        "prices": "\u00a31 / hour"
+    },
+    {
+        "name": "Cheap parking",
+        "description": "A cool place to park",
+        "latitude": 52.6628289485304,
+        "longitude": -1.0462809074048967,
+        "openCloseTimes": "Monday : 6:30pm - 1:00am<br>Tuesday : 6:30pm - 1:00am<br>Wednesday : 6:30pm - 1:00am<br>Thursday : 6:30pm - 1:00am<br>Friday : 6:30pm - 1:00am<br>Saturday : 6:30pm - 1:00am<br>Sunday : 10:00am - 6:00pm",
+        "prices": "\u00a31 / hour"
+    },
+    {
+        "name": "LeicesterCS car storage",
+        "description": "A cool place to park",
+        "latitude": 52.62607044265615,
+        "longitude": -1.076461464832939,
+        "openCloseTimes": "Monday : 6:30pm - 1:00am<br>Tuesday : 6:30pm - 1:00am<br>Wednesday : 6:30pm - 1:00am<br>Thursday : 6:30pm - 1:00am<br>Friday : 6:30pm - 1:00am<br>Saturday : 6:30pm - 1:00am<br>Sunday : 10:00am - 6:00pm",
+        "prices": "\u00a31 / hour"
+    },
+    {
+        "name": "Safe cheap parking",
+        "description": "A cool place to park",
+        "latitude": 52.61174824896227,
+        "longitude": -1.068092280958469,
+        "openCloseTimes": "Monday : 6:30pm - 1:00am<br>Tuesday : 6:30pm - 1:00am<br>Wednesday : 6:30pm - 1:00am<br>Thursday : 6:30pm - 1:00am<br>Friday : 6:30pm - 1:00am<br>Saturday : 6:30pm - 1:00am<br>Sunday : 10:00am - 6:00pm",
+        "prices": "\u00a31 / hour"
+    },
+    {
+        "name": "Node.js parking lot",
+        "description": "A cool place to park",
+        "latitude": 52.66426445267579,
+        "longitude": -1.1471160734554704,
+        "openCloseTimes": "Monday : 6:30pm - 1:00am<br>Tuesday : 6:30pm - 1:00am<br>Wednesday : 6:30pm - 1:00am<br>Thursday : 6:30pm - 1:00am<br>Friday : 6:30pm - 1:00am<br>Saturday : 6:30pm - 1:00am<br>Sunday : 10:00am - 6:00pm",
+        "prices": "\u00a31 / hour"
+    },
+    {
+        "name": "Node.js car storage",
+        "description": "A cool place to park",
+        "latitude": 52.60310094207847,
+        "longitude": -1.1715105667075545,
+        "openCloseTimes": "Monday : 6:30pm - 1:00am<br>Tuesday : 6:30pm - 1:00am<br>Wednesday : 6:30pm - 1:00am<br>Thursday : 6:30pm - 1:00am<br>Friday : 6:30pm - 1:00am<br>Saturday : 6:30pm - 1:00am<br>Sunday : 10:00am - 6:00pm",
+        "prices": "\u00a31 / hour"
+    },
+    {
+        "name": "Cheap parking lot",
+        "description": "A cool place to park",
+        "latitude": 52.59021830559336,
+        "longitude": -1.186342142539274,
+        "openCloseTimes": "Monday : 6:30pm - 1:00am<br>Tuesday : 6:30pm - 1:00am<br>Wednesday : 6:30pm - 1:00am<br>Thursday : 6:30pm - 1:00am<br>Friday : 6:30pm - 1:00am<br>Saturday : 6:30pm - 1:00am<br>Sunday : 10:00am - 6:00pm",
+        "prices": "\u00a31 / hour"
+    },
+    {
+        "name": "Rundown car storage",
+        "description": "A cool place to park",
+        "latitude": 52.67763272400176,
+        "longitude": -1.1238822493107794,
+        "openCloseTimes": "Monday : 6:30pm - 1:00am<br>Tuesday : 6:30pm - 1:00am<br>Wednesday : 6:30pm - 1:00am<br>Thursday : 6:30pm - 1:00am<br>Friday : 6:30pm - 1:00am<br>Saturday : 6:30pm - 1:00am<br>Sunday : 10:00am - 6:00pm",
+        "prices": "\u00a31 / hour"
+    },
+    {
+        "name": "New house parking lot",
+        "description": "A cool place to park",
+        "latitude": 52.581590662035,
+        "longitude": -1.132579803097677,
+        "openCloseTimes": "Monday : 6:30pm - 1:00am<br>Tuesday : 6:30pm - 1:00am<br>Wednesday : 6:30pm - 1:00am<br>Thursday : 6:30pm - 1:00am<br>Friday : 6:30pm - 1:00am<br>Saturday : 6:30pm - 1:00am<br>Sunday : 10:00am - 6:00pm",
+        "prices": "\u00a31 / hour"
+    },
+    {
+        "name": "Car protect parking",
+        "description": "A cool place to park",
+        "latitude": 52.58038267293036,
+        "longitude": -1.2091572079730497,
+        "openCloseTimes": "Monday : 6:30pm - 1:00am<br>Tuesday : 6:30pm - 1:00am<br>Wednesday : 6:30pm - 1:00am<br>Thursday : 6:30pm - 1:00am<br>Friday : 6:30pm - 1:00am<br>Saturday : 6:30pm - 1:00am<br>Sunday : 10:00am - 6:00pm",
+        "prices": "\u00a31 / hour"
+    },
+    {
+        "name": "React car storage",
+        "description": "A cool place to park",
+        "latitude": 52.636951461514194,
+        "longitude": -1.071098799037122,
+        "openCloseTimes": "Monday : 6:30pm - 1:00am<br>Tuesday : 6:30pm - 1:00am<br>Wednesday : 6:30pm - 1:00am<br>Thursday : 6:30pm - 1:00am<br>Friday : 6:30pm - 1:00am<br>Saturday : 6:30pm - 1:00am<br>Sunday : 10:00am - 6:00pm",
+        "prices": "\u00a31 / hour"
+    },
+    {
+        "name": "Park and go multi-story car park",
+        "description": "A cool place to park",
+        "latitude": 52.646915358228185,
+        "longitude": -1.1849388459850623,
+        "openCloseTimes": "Monday : 6:30pm - 1:00am<br>Tuesday : 6:30pm - 1:00am<br>Wednesday : 6:30pm - 1:00am<br>Thursday : 6:30pm - 1:00am<br>Friday : 6:30pm - 1:00am<br>Saturday : 6:30pm - 1:00am<br>Sunday : 10:00am - 6:00pm",
+        "prices": "\u00a31 / hour"
+    },
+    {
+        "name": "Quick parking",
+        "description": "A cool place to park",
+        "latitude": 52.6722761969423,
+        "longitude": -1.1536484004311307,
+        "openCloseTimes": "Monday : 6:30pm - 1:00am<br>Tuesday : 6:30pm - 1:00am<br>Wednesday : 6:30pm - 1:00am<br>Thursday : 6:30pm - 1:00am<br>Friday : 6:30pm - 1:00am<br>Saturday : 6:30pm - 1:00am<br>Sunday : 10:00am - 6:00pm",
+        "prices": "\u00a31 / hour"
+    },
+    {
+        "name": "Node.js parking lot",
+        "description": "A cool place to park",
+        "latitude": 52.61314865189853,
+        "longitude": -1.159081832952863,
+        "openCloseTimes": "Monday : 6:30pm - 1:00am<br>Tuesday : 6:30pm - 1:00am<br>Wednesday : 6:30pm - 1:00am<br>Thursday : 6:30pm - 1:00am<br>Friday : 6:30pm - 1:00am<br>Saturday : 6:30pm - 1:00am<br>Sunday : 10:00am - 6:00pm",
+        "prices": "\u00a31 / hour"
+    },
+    {
+        "name": "James' cheap parking",
+        "description": "A cool place to park",
+        "latitude": 52.66049279378389,
+        "longitude": -1.2195632494956579,
+        "openCloseTimes": "Monday : 6:30pm - 1:00am<br>Tuesday : 6:30pm - 1:00am<br>Wednesday : 6:30pm - 1:00am<br>Thursday : 6:30pm - 1:00am<br>Friday : 6:30pm - 1:00am<br>Saturday : 6:30pm - 1:00am<br>Sunday : 10:00am - 6:00pm",
+        "prices": "\u00a31 / hour"
+    },
+    {
+        "name": "Top quick parking",
+        "description": "A cool place to park",
+        "latitude": 52.578077931684156,
+        "longitude": -1.1666674820545335,
+        "openCloseTimes": "Monday : 6:30pm - 1:00am<br>Tuesday : 6:30pm - 1:00am<br>Wednesday : 6:30pm - 1:00am<br>Thursday : 6:30pm - 1:00am<br>Friday : 6:30pm - 1:00am<br>Saturday : 6:30pm - 1:00am<br>Sunday : 10:00am - 6:00pm",
+        "prices": "\u00a31 / hour"
+    },
+    {
+        "name": "Best quick parking",
+        "description": "A cool place to park",
+        "latitude": 52.633713781282474,
+        "longitude": -1.1046857340795733,
+        "openCloseTimes": "Monday : 6:30pm - 1:00am<br>Tuesday : 6:30pm - 1:00am<br>Wednesday : 6:30pm - 1:00am<br>Thursday : 6:30pm - 1:00am<br>Friday : 6:30pm - 1:00am<br>Saturday : 6:30pm - 1:00am<br>Sunday : 10:00am - 6:00pm",
+        "prices": "\u00a31 / hour"
+    },
+    {
+        "name": "Park and go car storage",
+        "description": "A cool place to park",
+        "latitude": 52.69336200310557,
+        "longitude": -1.1461184257541017,
+        "openCloseTimes": "Monday : 6:30pm - 1:00am<br>Tuesday : 6:30pm - 1:00am<br>Wednesday : 6:30pm - 1:00am<br>Thursday : 6:30pm - 1:00am<br>Friday : 6:30pm - 1:00am<br>Saturday : 6:30pm - 1:00am<br>Sunday : 10:00am - 6:00pm",
+        "prices": "\u00a31 / hour"
+    },
+    {
+        "name": "Park and go parking lot",
+        "description": "A cool place to park",
+        "latitude": 52.62493785789038,
+        "longitude": -1.1701262792435752,
+        "openCloseTimes": "Monday : 6:30pm - 1:00am<br>Tuesday : 6:30pm - 1:00am<br>Wednesday : 6:30pm - 1:00am<br>Thursday : 6:30pm - 1:00am<br>Friday : 6:30pm - 1:00am<br>Saturday : 6:30pm - 1:00am<br>Sunday : 10:00am - 6:00pm",
+        "prices": "\u00a31 / hour"
+    },
+    {
+        "name": "Rundown park",
+        "description": "A cool place to park",
+        "latitude": 52.62670172989686,
+        "longitude": -1.1149309988162635,
+        "openCloseTimes": "Monday : 6:30pm - 1:00am<br>Tuesday : 6:30pm - 1:00am<br>Wednesday : 6:30pm - 1:00am<br>Thursday : 6:30pm - 1:00am<br>Friday : 6:30pm - 1:00am<br>Saturday : 6:30pm - 1:00am<br>Sunday : 10:00am - 6:00pm",
+        "prices": "\u00a31 / hour"
+    },
+    {
+        "name": "Cheap parking lot",
+        "description": "A cool place to park",
+        "latitude": 52.57646573840423,
+        "longitude": -1.1849237755772746,
+        "openCloseTimes": "Monday : 6:30pm - 1:00am<br>Tuesday : 6:30pm - 1:00am<br>Wednesday : 6:30pm - 1:00am<br>Thursday : 6:30pm - 1:00am<br>Friday : 6:30pm - 1:00am<br>Saturday : 6:30pm - 1:00am<br>Sunday : 10:00am - 6:00pm",
+        "prices": "\u00a31 / hour"
+    },
+    {
+        "name": "React car storage",
+        "description": "A cool place to park",
+        "latitude": 52.621525409294705,
+        "longitude": -1.1529168065669912,
+        "openCloseTimes": "Monday : 6:30pm - 1:00am<br>Tuesday : 6:30pm - 1:00am<br>Wednesday : 6:30pm - 1:00am<br>Thursday : 6:30pm - 1:00am<br>Friday : 6:30pm - 1:00am<br>Saturday : 6:30pm - 1:00am<br>Sunday : 10:00am - 6:00pm",
+        "prices": "\u00a31 / hour"
+    },
+    {
+        "name": "Quick park",
+        "description": "A cool place to park",
+        "latitude": 52.609168039490825,
+        "longitude": -1.0490014513881536,
+        "openCloseTimes": "Monday : 6:30pm - 1:00am<br>Tuesday : 6:30pm - 1:00am<br>Wednesday : 6:30pm - 1:00am<br>Thursday : 6:30pm - 1:00am<br>Friday : 6:30pm - 1:00am<br>Saturday : 6:30pm - 1:00am<br>Sunday : 10:00am - 6:00pm",
+        "prices": "\u00a31 / hour"
+    },
+    {
+        "name": "Car protect car storage",
+        "description": "A cool place to park",
+        "latitude": 52.64047257183777,
+        "longitude": -1.1013363164128065,
+        "openCloseTimes": "Monday : 6:30pm - 1:00am<br>Tuesday : 6:30pm - 1:00am<br>Wednesday : 6:30pm - 1:00am<br>Thursday : 6:30pm - 1:00am<br>Friday : 6:30pm - 1:00am<br>Saturday : 6:30pm - 1:00am<br>Sunday : 10:00am - 6:00pm",
+        "prices": "\u00a31 / hour"
+    },
+    {
+        "name": "James' cheap parking",
+        "description": "A cool place to park",
+        "latitude": 52.618065181971005,
+        "longitude": -1.1147474742542047,
+        "openCloseTimes": "Monday : 6:30pm - 1:00am<br>Tuesday : 6:30pm - 1:00am<br>Wednesday : 6:30pm - 1:00am<br>Thursday : 6:30pm - 1:00am<br>Friday : 6:30pm - 1:00am<br>Saturday : 6:30pm - 1:00am<br>Sunday : 10:00am - 6:00pm",
+        "prices": "\u00a31 / hour"
+    },
+    {
+        "name": "Top parking lot",
+        "description": "A cool place to park",
+        "latitude": 52.59171973619105,
+        "longitude": -1.1091692828181074,
+        "openCloseTimes": "Monday : 6:30pm - 1:00am<br>Tuesday : 6:30pm - 1:00am<br>Wednesday : 6:30pm - 1:00am<br>Thursday : 6:30pm - 1:00am<br>Friday : 6:30pm - 1:00am<br>Saturday : 6:30pm - 1:00am<br>Sunday : 10:00am - 6:00pm",
+        "prices": "\u00a31 / hour"
+    },
+    {
+        "name": "Top car storage",
+        "description": "A cool place to park",
+        "latitude": 52.665117496805365,
+        "longitude": -1.221421626696657,
+        "openCloseTimes": "Monday : 6:30pm - 1:00am<br>Tuesday : 6:30pm - 1:00am<br>Wednesday : 6:30pm - 1:00am<br>Thursday : 6:30pm - 1:00am<br>Friday : 6:30pm - 1:00am<br>Saturday : 6:30pm - 1:00am<br>Sunday : 10:00am - 6:00pm",
+        "prices": "\u00a31 / hour"
+    },
+    {
+        "name": "Best cheap parking",
+        "description": "A cool place to park",
+        "latitude": 52.57300228558517,
+        "longitude": -1.0980016412120137,
+        "openCloseTimes": "Monday : 6:30pm - 1:00am<br>Tuesday : 6:30pm - 1:00am<br>Wednesday : 6:30pm - 1:00am<br>Thursday : 6:30pm - 1:00am<br>Friday : 6:30pm - 1:00am<br>Saturday : 6:30pm - 1:00am<br>Sunday : 10:00am - 6:00pm",
+        "prices": "\u00a31 / hour"
+    },
+    {
+        "name": "New house quick parking",
+        "description": "A cool place to park",
+        "latitude": 52.65715018761383,
+        "longitude": -1.0774592889662775,
+        "openCloseTimes": "Monday : 6:30pm - 1:00am<br>Tuesday : 6:30pm - 1:00am<br>Wednesday : 6:30pm - 1:00am<br>Thursday : 6:30pm - 1:00am<br>Friday : 6:30pm - 1:00am<br>Saturday : 6:30pm - 1:00am<br>Sunday : 10:00am - 6:00pm",
+        "prices": "\u00a31 / hour"
+    },
+    {
+        "name": "Expensivemans parking lot",
+        "description": "A cool place to park",
+        "latitude": 52.69363215684421,
+        "longitude": -1.1386253014714014,
+        "openCloseTimes": "Monday : 6:30pm - 1:00am<br>Tuesday : 6:30pm - 1:00am<br>Wednesday : 6:30pm - 1:00am<br>Thursday : 6:30pm - 1:00am<br>Friday : 6:30pm - 1:00am<br>Saturday : 6:30pm - 1:00am<br>Sunday : 10:00am - 6:00pm",
+        "prices": "\u00a31 / hour"
+    },
+    {
+        "name": "Freemans parking",
+        "description": "A cool place to park",
+        "latitude": 52.649767227101954,
+        "longitude": -1.1157881692646872,
+        "openCloseTimes": "Monday : 6:30pm - 1:00am<br>Tuesday : 6:30pm - 1:00am<br>Wednesday : 6:30pm - 1:00am<br>Thursday : 6:30pm - 1:00am<br>Friday : 6:30pm - 1:00am<br>Saturday : 6:30pm - 1:00am<br>Sunday : 10:00am - 6:00pm",
+        "prices": "\u00a31 / hour"
+    },
+    {
+        "name": "Node.js cheap parking",
+        "description": "A cool place to park",
+        "latitude": 52.60684175761332,
+        "longitude": -1.1819776718909192,
+        "openCloseTimes": "Monday : 6:30pm - 1:00am<br>Tuesday : 6:30pm - 1:00am<br>Wednesday : 6:30pm - 1:00am<br>Thursday : 6:30pm - 1:00am<br>Friday : 6:30pm - 1:00am<br>Saturday : 6:30pm - 1:00am<br>Sunday : 10:00am - 6:00pm",
+        "prices": "\u00a31 / hour"
+    },
+    {
+        "name": "Top cheap parking",
+        "description": "A cool place to park",
+        "latitude": 52.67090472080453,
+        "longitude": -1.063305117821463,
+        "openCloseTimes": "Monday : 6:30pm - 1:00am<br>Tuesday : 6:30pm - 1:00am<br>Wednesday : 6:30pm - 1:00am<br>Thursday : 6:30pm - 1:00am<br>Friday : 6:30pm - 1:00am<br>Saturday : 6:30pm - 1:00am<br>Sunday : 10:00am - 6:00pm",
+        "prices": "\u00a31 / hour"
+    },
+    {
+        "name": "Expensivemans car storage",
+        "description": "A cool place to park",
+        "latitude": 52.67531942113689,
+        "longitude": -1.0893586114689704,
+        "openCloseTimes": "Monday : 6:30pm - 1:00am<br>Tuesday : 6:30pm - 1:00am<br>Wednesday : 6:30pm - 1:00am<br>Thursday : 6:30pm - 1:00am<br>Friday : 6:30pm - 1:00am<br>Saturday : 6:30pm - 1:00am<br>Sunday : 10:00am - 6:00pm",
+        "prices": "\u00a31 / hour"
+    },
+    {
+        "name": "Freemans cheap parking",
+        "description": "A cool place to park",
+        "latitude": 52.59391278607879,
+        "longitude": -1.1648443598369165,
+        "openCloseTimes": "Monday : 6:30pm - 1:00am<br>Tuesday : 6:30pm - 1:00am<br>Wednesday : 6:30pm - 1:00am<br>Thursday : 6:30pm - 1:00am<br>Friday : 6:30pm - 1:00am<br>Saturday : 6:30pm - 1:00am<br>Sunday : 10:00am - 6:00pm",
+        "prices": "\u00a31 / hour"
+    },
+    {
+        "name": "Top parking lot",
+        "description": "A cool place to park",
+        "latitude": 52.672009635661404,
+        "longitude": -1.1246975624665794,
+        "openCloseTimes": "Monday : 6:30pm - 1:00am<br>Tuesday : 6:30pm - 1:00am<br>Wednesday : 6:30pm - 1:00am<br>Thursday : 6:30pm - 1:00am<br>Friday : 6:30pm - 1:00am<br>Saturday : 6:30pm - 1:00am<br>Sunday : 10:00am - 6:00pm",
+        "prices": "\u00a31 / hour"
+    },
+    {
+        "name": "Node.js park",
+        "description": "A cool place to park",
+        "latitude": 52.57745231201838,
+        "longitude": -1.0864172674974562,
+        "openCloseTimes": "Monday : 6:30pm - 1:00am<br>Tuesday : 6:30pm - 1:00am<br>Wednesday : 6:30pm - 1:00am<br>Thursday : 6:30pm - 1:00am<br>Friday : 6:30pm - 1:00am<br>Saturday : 6:30pm - 1:00am<br>Sunday : 10:00am - 6:00pm",
+        "prices": "\u00a31 / hour"
+    },
+    {
+        "name": "Expensivemans parking lot",
+        "description": "A cool place to park",
+        "latitude": 52.66290779975593,
+        "longitude": -1.1831630151674408,
+        "openCloseTimes": "Monday : 6:30pm - 1:00am<br>Tuesday : 6:30pm - 1:00am<br>Wednesday : 6:30pm - 1:00am<br>Thursday : 6:30pm - 1:00am<br>Friday : 6:30pm - 1:00am<br>Saturday : 6:30pm - 1:00am<br>Sunday : 10:00am - 6:00pm",
+        "prices": "\u00a31 / hour"
+    },
+    {
+        "name": "James' quick parking",
+        "description": "A cool place to park",
+        "latitude": 52.5946443298965,
+        "longitude": -1.0559618985291348,
+        "openCloseTimes": "Monday : 6:30pm - 1:00am<br>Tuesday : 6:30pm - 1:00am<br>Wednesday : 6:30pm - 1:00am<br>Thursday : 6:30pm - 1:00am<br>Friday : 6:30pm - 1:00am<br>Saturday : 6:30pm - 1:00am<br>Sunday : 10:00am - 6:00pm",
+        "prices": "\u00a31 / hour"
+    },
+    {
+        "name": "Rundown cheap parking",
+        "description": "A cool place to park",
+        "latitude": 52.68907451554467,
+        "longitude": -1.120775608127859,
+        "openCloseTimes": "Monday : 6:30pm - 1:00am<br>Tuesday : 6:30pm - 1:00am<br>Wednesday : 6:30pm - 1:00am<br>Thursday : 6:30pm - 1:00am<br>Friday : 6:30pm - 1:00am<br>Saturday : 6:30pm - 1:00am<br>Sunday : 10:00am - 6:00pm",
+        "prices": "\u00a31 / hour"
+    },
+    {
+        "name": "Park and go quick parking",
+        "description": "A cool place to park",
+        "latitude": 52.57636205202718,
+        "longitude": -1.0978419586147852,
+        "openCloseTimes": "Monday : 6:30pm - 1:00am<br>Tuesday : 6:30pm - 1:00am<br>Wednesday : 6:30pm - 1:00am<br>Thursday : 6:30pm - 1:00am<br>Friday : 6:30pm - 1:00am<br>Saturday : 6:30pm - 1:00am<br>Sunday : 10:00am - 6:00pm",
+        "prices": "\u00a31 / hour"
+    },
+    {
+        "name": "Rundown parking lot",
+        "description": "A cool place to park",
+        "latitude": 52.59858815100106,
+        "longitude": -1.0428488337727604,
+        "openCloseTimes": "Monday : 6:30pm - 1:00am<br>Tuesday : 6:30pm - 1:00am<br>Wednesday : 6:30pm - 1:00am<br>Thursday : 6:30pm - 1:00am<br>Friday : 6:30pm - 1:00am<br>Saturday : 6:30pm - 1:00am<br>Sunday : 10:00am - 6:00pm",
+        "prices": "\u00a31 / hour"
+    },
+    {
+        "name": "Quick cheap parking",
+        "description": "A cool place to park",
+        "latitude": 52.611420426799036,
+        "longitude": -1.176971805875397,
+        "openCloseTimes": "Monday : 6:30pm - 1:00am<br>Tuesday : 6:30pm - 1:00am<br>Wednesday : 6:30pm - 1:00am<br>Thursday : 6:30pm - 1:00am<br>Friday : 6:30pm - 1:00am<br>Saturday : 6:30pm - 1:00am<br>Sunday : 10:00am - 6:00pm",
+        "prices": "\u00a31 / hour"
+    },
+    {
+        "name": "James' parking",
+        "description": "A cool place to park",
+        "latitude": 52.665317616315775,
+        "longitude": -1.147569332162716,
+        "openCloseTimes": "Monday : 6:30pm - 1:00am<br>Tuesday : 6:30pm - 1:00am<br>Wednesday : 6:30pm - 1:00am<br>Thursday : 6:30pm - 1:00am<br>Friday : 6:30pm - 1:00am<br>Saturday : 6:30pm - 1:00am<br>Sunday : 10:00am - 6:00pm",
+        "prices": "\u00a31 / hour"
+    },
+    {
+        "name": "Cheap cheap parking",
+        "description": "A cool place to park",
+        "latitude": 52.68495878557606,
+        "longitude": -1.0546199379710401,
+        "openCloseTimes": "Monday : 6:30pm - 1:00am<br>Tuesday : 6:30pm - 1:00am<br>Wednesday : 6:30pm - 1:00am<br>Thursday : 6:30pm - 1:00am<br>Friday : 6:30pm - 1:00am<br>Saturday : 6:30pm - 1:00am<br>Sunday : 10:00am - 6:00pm",
+        "prices": "\u00a31 / hour"
+    },
+    {
+        "name": "Node.js multi-story car park",
+        "description": "A cool place to park",
+        "latitude": 52.61167978958919,
+        "longitude": -1.0906500220344677,
+        "openCloseTimes": "Monday : 6:30pm - 1:00am<br>Tuesday : 6:30pm - 1:00am<br>Wednesday : 6:30pm - 1:00am<br>Thursday : 6:30pm - 1:00am<br>Friday : 6:30pm - 1:00am<br>Saturday : 6:30pm - 1:00am<br>Sunday : 10:00am - 6:00pm",
+        "prices": "\u00a31 / hour"
+    },
+    {
+        "name": "Node.js parking lot",
+        "description": "A cool place to park",
+        "latitude": 52.68767911708306,
+        "longitude": -1.0709419962447169,
+        "openCloseTimes": "Monday : 6:30pm - 1:00am<br>Tuesday : 6:30pm - 1:00am<br>Wednesday : 6:30pm - 1:00am<br>Thursday : 6:30pm - 1:00am<br>Friday : 6:30pm - 1:00am<br>Saturday : 6:30pm - 1:00am<br>Sunday : 10:00am - 6:00pm",
+        "prices": "\u00a31 / hour"
+    },
+    {
+        "name": "Node.js cheap parking",
+        "description": "A cool place to park",
+        "latitude": 52.59712153569248,
+        "longitude": -1.1002288096710202,
+        "openCloseTimes": "Monday : 6:30pm - 1:00am<br>Tuesday : 6:30pm - 1:00am<br>Wednesday : 6:30pm - 1:00am<br>Thursday : 6:30pm - 1:00am<br>Friday : 6:30pm - 1:00am<br>Saturday : 6:30pm - 1:00am<br>Sunday : 10:00am - 6:00pm",
+        "prices": "\u00a31 / hour"
+    },
+    {
+        "name": "Freemans multi-story car park",
+        "description": "A cool place to park",
+        "latitude": 52.644085105144065,
+        "longitude": -1.1719038675725613,
+        "openCloseTimes": "Monday : 6:30pm - 1:00am<br>Tuesday : 6:30pm - 1:00am<br>Wednesday : 6:30pm - 1:00am<br>Thursday : 6:30pm - 1:00am<br>Friday : 6:30pm - 1:00am<br>Saturday : 6:30pm - 1:00am<br>Sunday : 10:00am - 6:00pm",
+        "prices": "\u00a31 / hour"
+    },
+    {
+        "name": "Safe quick parking",
+        "description": "A cool place to park",
+        "latitude": 52.592093807437834,
+        "longitude": -1.217021316699162,
+        "openCloseTimes": "Monday : 6:30pm - 1:00am<br>Tuesday : 6:30pm - 1:00am<br>Wednesday : 6:30pm - 1:00am<br>Thursday : 6:30pm - 1:00am<br>Friday : 6:30pm - 1:00am<br>Saturday : 6:30pm - 1:00am<br>Sunday : 10:00am - 6:00pm",
+        "prices": "\u00a31 / hour"
+    },
+    {
+        "name": "Freemans cheap parking",
+        "description": "A cool place to park",
+        "latitude": 52.64589957783737,
+        "longitude": -1.1139111170357796,
+        "openCloseTimes": "Monday : 6:30pm - 1:00am<br>Tuesday : 6:30pm - 1:00am<br>Wednesday : 6:30pm - 1:00am<br>Thursday : 6:30pm - 1:00am<br>Friday : 6:30pm - 1:00am<br>Saturday : 6:30pm - 1:00am<br>Sunday : 10:00am - 6:00pm",
+        "prices": "\u00a31 / hour"
+    },
+    {
+        "name": "James' cheap parking",
+        "description": "A cool place to park",
+        "latitude": 52.66127744466757,
+        "longitude": -1.1634058298501195,
+        "openCloseTimes": "Monday : 6:30pm - 1:00am<br>Tuesday : 6:30pm - 1:00am<br>Wednesday : 6:30pm - 1:00am<br>Thursday : 6:30pm - 1:00am<br>Friday : 6:30pm - 1:00am<br>Saturday : 6:30pm - 1:00am<br>Sunday : 10:00am - 6:00pm",
+        "prices": "\u00a31 / hour"
+    },
+    {
+        "name": "Safe car storage",
+        "description": "A cool place to park",
+        "latitude": 52.57495159590901,
+        "longitude": -1.0980875980789793,
+        "openCloseTimes": "Monday : 6:30pm - 1:00am<br>Tuesday : 6:30pm - 1:00am<br>Wednesday : 6:30pm - 1:00am<br>Thursday : 6:30pm - 1:00am<br>Friday : 6:30pm - 1:00am<br>Saturday : 6:30pm - 1:00am<br>Sunday : 10:00am - 6:00pm",
+        "prices": "\u00a31 / hour"
+    },
+    {
+        "name": "Park and go car storage",
+        "description": "A cool place to park",
+        "latitude": 52.62888575932906,
+        "longitude": -1.216289815328859,
+        "openCloseTimes": "Monday : 6:30pm - 1:00am<br>Tuesday : 6:30pm - 1:00am<br>Wednesday : 6:30pm - 1:00am<br>Thursday : 6:30pm - 1:00am<br>Friday : 6:30pm - 1:00am<br>Saturday : 6:30pm - 1:00am<br>Sunday : 10:00am - 6:00pm",
+        "prices": "\u00a31 / hour"
+    },
+    {
+        "name": "Quick multi-story car park",
+        "description": "A cool place to park",
+        "latitude": 52.68651764639143,
+        "longitude": -1.1711932787950217,
+        "openCloseTimes": "Monday : 6:30pm - 1:00am<br>Tuesday : 6:30pm - 1:00am<br>Wednesday : 6:30pm - 1:00am<br>Thursday : 6:30pm - 1:00am<br>Friday : 6:30pm - 1:00am<br>Saturday : 6:30pm - 1:00am<br>Sunday : 10:00am - 6:00pm",
+        "prices": "\u00a31 / hour"
+    },
+    {
+        "name": "Expensivemans quick parking",
+        "description": "A cool place to park",
+        "latitude": 52.66861440605504,
+        "longitude": -1.0398669410895278,
+        "openCloseTimes": "Monday : 6:30pm - 1:00am<br>Tuesday : 6:30pm - 1:00am<br>Wednesday : 6:30pm - 1:00am<br>Thursday : 6:30pm - 1:00am<br>Friday : 6:30pm - 1:00am<br>Saturday : 6:30pm - 1:00am<br>Sunday : 10:00am - 6:00pm",
         "prices": "\u00a31 / hour"
     }
 ]
