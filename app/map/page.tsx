@@ -1,12 +1,10 @@
-"use client"
-import Map from '../components/Map'
+"use client";
+import dynamic from "next/dynamic";
 
-export default function About() {
-  return (
-    
-    <div>
-      <h1>Welcome to the Home Page</h1>
-      <Map />  {/* Render the map component here */}
-    </div>
-  );
+const Map = dynamic(() => import('../components/MapClient'), {
+  ssr: false,
+});
+
+export default function Page() {
+  return <Map />;
 }
