@@ -4,6 +4,7 @@ import { useEffect } from 'react';
 import L from 'leaflet';
 import 'leaflet/dist/leaflet.css';
 import parkJson from "../../parkingLocations.json";
+import { useSearchParams } from 'next/navigation';
 
 type ParkingSpot = {
   name: string;
@@ -15,9 +16,16 @@ type ParkingSpot = {
 };
 
 export default function MapClient() {
+  const searchParams = useSearchParams();
+  const lat = searchParams.get('lat');
+  const lon = searchParams.get('long'); 
+
+  const latitude = lat ? parseFloat(lat) : 52.6100; // default: Leicester
+  const longitude = lon ? parseFloat(lon) : -1.1140;
+
   useEffect(() => {
     const map = L.map('map', {
-      center: [52.6100, -1.1140],
+      center: [latitude,longitude],
       zoom: 15,
     });
 
