@@ -45,7 +45,7 @@ export default function MapClient() {
     spots.forEach((spot) => {
       L.marker([spot.latitude, spot.longitude], { icon: parkingIcon })
         .addTo(map)
-        .bindPopup(spot.name);
+        .bindPopup("<b>"+spot.name+"</b><br>"+spot.prices+"<br><br>"+spot.description+"<br><br>"+spot.openCloseTimes);
     });
 
     return () => map.remove();
