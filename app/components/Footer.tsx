@@ -6,7 +6,7 @@ export const Footer = () => {
   const pathname = usePathname() ?? "";
 
   return (
-    <footer className="bg-inherit rounded-base shadow-xs">
+    <footer className="bg-[#0a0a0a] rounded-base shadow-xs">
       <div className="mx-auto w-full max-w-screen-xl p-4 py-6 lg:py-8">
         <div className="md:flex md:justify-between">
           <div className="mb-6 md:mb-0">
@@ -81,7 +81,7 @@ export const Footer = () => {
         <div className="sm:flex sm:items-center sm:justify-between">
           <span className="text-sm text-body sm:text-center">
             © 2025{" "}
-            <a href="https://flowbite.com/" className="hover:underline">
+            <a href="/" className="hover:underline">
               FindMeParking™
             </a>
             . All Rights Reserved.

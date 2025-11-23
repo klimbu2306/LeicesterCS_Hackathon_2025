@@ -60,15 +60,12 @@ export default function HeroSearch() {
       <div className="flex flex-col sm:flex-row gap-2 w-full max-w-md">
         {/* Search Input with Icon */}
         <div className="relative flex-1">
-          <span className="absolute inset-y-0 left-3 flex items-center text-gray-500">
-            🔍
-          </span>
           <input
             type="text"
             value={location}
             onChange={(e) => setLocation(e.target.value)}
             placeholder="Enter a city or address"
-            className="w-full rounded-full pl-10 pr-4 py-2 border border-gray-300 focus:outline-none focus:ring-2 focus:ring-indigo-500"
+            className="w-full rounded-full pl-5 pr-4 py-2 border border-gray-300 focus:outline-none focus:ring-2 focus:ring-indigo-500"
           />
         </div>
 
