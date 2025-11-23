@@ -40,11 +40,11 @@ n = inputManager.getInput(
 
 for i in range(0, n):
 	# Weekday times
-	o = f"{int(5+random()*5):02d}:{int(random()*60):02d} am"
+	o = f"{int(5+random()*6):02d}:{int(random()*60):02d} am"
 	c = f"{int(4+random()*8):02d}:{int(random()*60):02d} pm"
 
 	# Saturday and Sunday times
-	o_s = f"{int(5+random()*5):02d}:{int(random()*60):02d} am"
+	o_s = f"{int(5+random()*6):02d}:{int(random()*60):02d} am"
 	c_s = f"{int(5+random()*5):02d}:{int(random()*60):02d} pm"
 
 	bt = []

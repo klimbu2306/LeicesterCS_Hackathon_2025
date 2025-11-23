@@ -36,31 +36,16 @@ export default function MapClient() {
       zoom: 15,
     });
 
-    // Current location marker
-    L.marker([latitude, longitude], {
-      icon: L.divIcon({
-        className: "current-location-wrapper",
-        html: `
-          <div class="current-location-label text-black">Your Location</div>
-          <img src="/icons/CurrentMarker.png" class="current-location-icon" />
-        `,
-        iconSize: [32, 49],
-        iconAnchor: [16, 49],
-      }),
-    }).addTo(map);
-
-    // Draw dynamic radius circle
-    const circle = L.circle([latitude, longitude], {
-      radius: radiusMeters,
-      color: "#2563eb",
-      weight: 2,
-      fillColor: "#3b82f680",
-      fillOpacity: 0.3,
-    }).addTo(map);
-
     L.tileLayer("https://{s}.tile.openstreetmap.org/{z}/{x}/{y}.png", {
       attribution: "&copy; OpenStreetMap contributors",
     }).addTo(map);
+
+    const currentMarkerIcon = L.icon({
+      iconUrl: "/icons/CurrentMarker.png",
+      iconSize: [32, 49],
+      iconAnchor: [16, 49],
+      popupAnchor: [0, -49],
+    });
 
     const parkingIcon_open = L.icon({
       iconUrl: "/icons/mapPinIcon_open.png",
@@ -82,6 +67,20 @@ export default function MapClient() {
       iconAnchor: [16, 49],
       popupAnchor: [0, -49],
     });
+
+        // Current location marker
+    L.marker([latitude, longitude], {
+      icon: currentMarkerIcon,
+    }).addTo(map);
+
+    // Draw dynamic radius circle
+    const circle = L.circle([latitude, longitude], {
+      radius: radiusMeters,
+      color: "#2563eb",
+      weight: 2,
+      fillColor: "#3b82f680",
+      fillOpacity: 0.3,
+    }).addTo(map);
 
     const spots = parkJson as ParkingSpot[];
     const nowTime = getLocalTime12h();
@@ -111,12 +110,9 @@ export default function MapClient() {
       }
 
       const txt =
-        "<b>" +
-        spot.name +
+        "<b>" + spot.name +
         "</b><br>" +
-        getOpenBusyHTML(isOpen, issBusy) +
-        " : " +
-        spot.prices +
+        getOpenBusyHTML(isOpen, issBusy) + " : " + spot.prices +
         "<br><br>" +
         spot.description +
         "<br><br>" +
@@ -135,8 +131,8 @@ export default function MapClient() {
         icon: !isOpen
           ? parkingIcon_closed
           : issBusy
-          ? parkingIcon_busy
-          : parkingIcon_open,
+            ? parkingIcon_busy
+            : parkingIcon_open,
       })
         .addTo(map)
         .bindPopup(txt);
