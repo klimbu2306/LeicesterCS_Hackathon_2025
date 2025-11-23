@@ -1,8 +1,8 @@
 "use client";
 
 // Imports
-import { useEffect, useState } from "react";
-import L from "leaflet";
+import { useEffect, useState, useRef } from "react";
+import L, { map } from "leaflet";
 import "leaflet/dist/leaflet.css";
 import parkJson from "../../parkingLocations.json";
 import { useSearchParams } from "next/navigation";
@@ -31,11 +31,18 @@ export default function MapClient() {
   const [radiusMeters, setRadiusMeters] = useState(1000);
   const radFiltering = useState(true); // Enable radius filtering
 
+  var [lookLocation, setLookLocation] = useState([latitude, longitude]);
+  var [currentZoom, setCurrentZoom] = useState(15);
+
+  const mapRef = useRef<L.Map | null>(null);
+
   useEffect(() => {
     const map = L.map("map", {
-      center: [latitude, longitude],
-      zoom: 15,
+      center: [lookLocation[0], lookLocation[1]],
+      zoom: currentZoom,
     });
+
+    mapRef.current = map;
 
     L.tileLayer("https://{s}.tile.openstreetmap.org/{z}/{x}/{y}.png", {
       attribution: "&copy; OpenStreetMap contributors",
@@ -159,7 +166,14 @@ export default function MapClient() {
               max={5000}
               step={100}
               value={radiusMeters}
-              onChange={(e) => setRadiusMeters(Number(e.target.value))}
+              onChange={(e) => {
+                setRadiusMeters(Number(e.target.value));
+                if (mapRef.current) {
+                  const c = mapRef.current.getCenter();
+                  setLookLocation([c.lat, c.lng]);
+                  setCurrentZoom(mapRef.current.getZoom());
+                }
+              }}
               className="w-24 h-2 appearance-none bg-gray-700 rounded-full
                        accent-white transform -rotate-90"
               style={{ touchAction: "none" }}

@@ -3,8 +3,8 @@ from inputSystem import *
 from random import random, randint, choice
 
 names = {
-	"first" : ["New house", "Best", "Quick", "Safe", "Rundown", "Park and go", "Car protect", "Top", "James'", "React", "Node.js", "LeicesterCS", "Freemans", "Cheap"],
-	"last" : ["parking", "multi-story car park", "park", "cheap parking", "quick parking", "parking lot", "car storage"]
+	"first" : ["New house", "Best", "Quick", "Safe", "Rundown", "Park and go", "Car protect", "Top", "James'", "React", "Node.js", "LeicesterCS", "Freemans", "Cheap", "Easy", "Central", "Downtown", "Uptown", "Westside", "Eastside", "Northside", "Southside", "Budget", "Premium", "Luxury", "Economy", "Express", "24/7", "Secure", "Covered", "Open air", "Valet", "Self-park", "Underground", "Elevated", "Rooftop", "Drive-in", "Family", "Business", "Student", "Commuter", "Event", "Airport", "City center", "Mall", "Stadium", "Hospital", "University", "Office"],
+	"last" : ["parking", "multi-story car park", "park", "cheap parking", "quick parking", "parking lot", "car storage", "vehicle depot", "auto park", "car hub", "parking garage", "parking area", "parking space", "car bay", "parking zone", "car lot", "parking facility", "carport", "motor park", "auto storage"]
 }
 
 newLine = "<br>"

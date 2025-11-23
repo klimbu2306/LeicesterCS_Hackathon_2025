@@ -33,19 +33,17 @@ export default function HeroSearch() {
   };
 
   const handleCurrentLocation = () => {
-    console.log("Fetching current location...");
+    //console.log("Fetching current location...");
     if (!navigator.geolocation) {
       setError("Geolocation is not supported by your browser");
       return;
     }
-    console.log("Requesting geolocation...");
+    //console.log("Requesting geolocation...");
 
     navigator.geolocation.getCurrentPosition(
       (position) => {
         const { latitude, longitude } = position.coords;
-
-        console.log("Location recieved at : ", position.coords);
-
+        //console.log("Location recieved at : ", position.coords);
         router.push(`/map?lat=${latitude}&long=${longitude}`);
       },
       () => setError("Unable to retrieve your location")
