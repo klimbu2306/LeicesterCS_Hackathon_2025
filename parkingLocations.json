@@ -18,11 +18,29 @@
     "prices": "£2 / 3 hours"
   },
   {
+    "name": "Freemans Car Park",
+    "description": "Parking for university visitors/students",
+    "latitude": 52.61829209264645,
+    "longitude": -1.129150986671448,
+    "openCloseTimes": "Monday : 00:00 am - 11:59 pm<br>Tuesday : 00:00 am - 11:59 pm<br>Wednesday : 00:00 am - 11:59 pm<br>Thursday : 00:00 am - 11:59 pm<br>Friday : 00:00 am - 11:59 pm<br>Saturday : 00:00 am - 11:59 pm<br>Sunday : 00:00 am - 11:59 pm",
+    "busyHours": [],
+    "prices": "Free up to 10 mins, £4 / 3 hours"
+  },
+  {
+    "name": "Victoria Car Park",
+    "description": "Parking for victoria park",
+    "latitude": 52.62491127171017,
+    "longitude": -1.12011194229126,
+    "openCloseTimes": "Monday : 00:00 am - 11:59 pm<br>Tuesday : 00:00 am - 11:59 pm<br>Wednesday : 00:00 am - 11:59 pm<br>Thursday : 00:00 am - 11:59 pm<br>Friday : 00:00 am - 11:59 pm<br>Saturday : 00:00 am - 11:59 pm<br>Sunday : 00:00 am - 11:59 pm",
+    "busyHours": [],
+    "prices": "£2.30 + 20p/hour"
+  },
+  {
     "name": "Free Street Parking",
     "description": "Several streets nearby with no markings, free parking available",
     "latitude": 52.6176047806486,
     "longitude": -1.1225182710770185,
-    "openCloseTimes": "Monday : 00:00 am - 11:59 pm<br>Tuesday : 00:00 am - 11:59 pm<br>Wednesday : 00:00 am - 11:59 pm<br>Thursday : 00:00 am - 11:59 pm<br>Friday : 00:00 am - 11:59 pm<br>Saturday : 00:00 am - 11:59 pm<br>Sunday : 00:00 am - 11:59 pm",
+    "openCloseTimes": "Monday : 10:30 am - 11:59 pm<br>Tuesday : 10:30 am - 11:59 pm<br>Wednesday : 10:30 am - 11:59 pm<br>Thursday : 10:30 am - 11:59 pm<br>Friday : 10:30 am - 11:59 pm<br>Saturday : 10:30 am - 11:59 pm<br>Sunday : 10:30 am - 11:59 pm",
     "busyHours": [],
     "prices": "Free"
   },  
@@ -326,10 +344,10 @@
         "prices": "\u00a31 / hour"
     },
     {
-        "name": "Downtown car hub",
-        "description": "A cool place to park",
-        "latitude": 52.6733893437028,
-        "longitude": -1.161788055182564,
+        "name": "King Power car park B",
+        "description": "Parking for king power stadium",
+        "latitude": 52.61925480758264,
+        "longitude": -1.1429214477539065,
         "openCloseTimes": "Monday : 06:37 am - 11:44 pm<br>Tuesday : 06:37 am - 11:44 pm<br>Wednesday : 06:37 am - 11:44 pm<br>Thursday : 06:37 am - 11:44 pm<br>Friday : 06:37 am - 11:44 pm<br>Saturday : 06:37 am - 11:44 pm<br>Sunday : 10:11 am - 06:32 pm",
         "busyHours": [
             "06:00 am",
@@ -338,11 +356,11 @@
         "prices": "\u00a31 / hour"
     },
     {
-        "name": "Family parking zone",
-        "description": "A cool place to park",
-        "latitude": 52.613409035346706,
-        "longitude": -1.1206834744908725,
-        "openCloseTimes": "Monday : 06:09 am - 07:39 pm<br>Tuesday : 06:09 am - 07:39 pm<br>Wednesday : 06:09 am - 07:39 pm<br>Thursday : 06:09 am - 07:39 pm<br>Friday : 06:09 am - 07:39 pm<br>Saturday : 06:09 am - 07:39 pm<br>Sunday : 09:51 am - 08:23 pm",
+        "name": "Saffron Lane Athletics Club parking",
+        "description": "Saffron Lane Athletics Stadium parking",
+        "latitude": 52.613418683536786,
+        "longitude": -1.1360979080200198,
+        "openCloseTimes": "Monday : 00:00 am - 11:59 pm<br>Tuesday : 00:00 am - 11:59 pm<br>Wednesday : 00:00 am - 11:59 pm<br>Thursday : 00:00 am - 11:59 pm<br>Friday : 00:00 am - 11:59 pm<br>Saturday : 00:00 am - 11:59 pm<br>Sunday : 00:00 am - 11:59 pm",
         "busyHours": [
             "08:00 pm",
             "10:00 am"
@@ -440,10 +458,10 @@
         "prices": "\u00a31 / hour"
     },
     {
-        "name": "Stadium parking facility",
-        "description": "A cool place to park",
-        "latitude": 52.627285843077615,
-        "longitude": -1.130877729720699,
+        "name": "Hospital visitor parking",
+        "description": "Hospital parking",
+        "latitude": 52.624869332883314,
+        "longitude": -1.1359262466430666,
         "openCloseTimes": "Monday : 09:12 am - 11:34 pm<br>Tuesday : 09:12 am - 11:34 pm<br>Wednesday : 09:12 am - 11:34 pm<br>Thursday : 09:12 am - 11:34 pm<br>Friday : 09:12 am - 11:34 pm<br>Saturday : 09:12 am - 11:34 pm<br>Sunday : 08:48 am - 07:01 pm",
         "busyHours": [
             "07:00 am",

@@ -48,6 +48,7 @@ export default function MapClient() {
       attribution: "&copy; OpenStreetMap contributors",
     }).addTo(map);
 
+    // Define custom icons for markers
     const currentMarkerIcon = L.icon({
       iconUrl: "/icons/CurrentMarker.png",
       iconSize: [32, 49],
@@ -77,9 +78,37 @@ export default function MapClient() {
     });
 
     // Current location marker
-    L.marker([latitude, longitude], {
+    const currentLocationMarker = L.marker([latitude, longitude], {
       icon: currentMarkerIcon,
-    }).addTo(map);
+    }).bindPopup("Current location<br>"+`
+      <button id="move_btn" style="
+          padding:6px 10px;
+          background:#2563eb;
+          color:white;
+          border:none;
+          border-radius:6px;
+          margin-top:8px;
+          cursor:pointer;">
+        Move this marker
+      </button>
+    `).addTo(map);
+
+    currentLocationMarker.on("popupopen", () => {
+      const btn = document.getElementById(`move_btn`);
+      if (!btn) return;
+
+      btn.addEventListener("click", () => {
+        currentLocationMarker.remove();
+
+        const c = map.getCenter();
+        setCurrentZoom(map.getZoom());
+
+        const tmp = enablePlacementMode(currentLocationMarker, map);
+
+        setLookLocation(tmp);
+        //setRadiusMeters(100);                  // reset radius
+      });
+    });
 
     // Draw dynamic radius circle
     const circle = L.circle([latitude, longitude], {
@@ -147,7 +176,7 @@ export default function MapClient() {
     return () => {
       map.remove();
     };
-  }, [radiusMeters]); // <-- rerun map when radius changes
+  }, [radiusMeters, latitude, longitude]); // <-- rerun map when radius changes
 
   return (
     <>
@@ -190,6 +219,7 @@ export default function MapClient() {
   );
 }
 
+// function which returns HTML string for open/busy/closed status
 function getOpenBusyHTML(open: boolean, busy: boolean) {
   if (!open)
     return '<span style="color: #ff0000; font-weight: bold;">Closed</span>';
@@ -198,6 +228,7 @@ function getOpenBusyHTML(open: boolean, busy: boolean) {
   return '<span style="color: #1cb317ff; font-weight: bold;">Open</span>';
 }
 
+// function which gets local time in 12h format (hh:mm AM/PM)
 function getLocalTime12h() {
   let t = new Date().toLocaleTimeString("en-US", {
     hour: "2-digit",
@@ -212,6 +243,7 @@ function getLocalTime12h() {
   return t;
 }
 
+// function which checks if target time is between start and end times -> boolean
 function isTimeBetween(target: String, start: String, end: String) {
   const toMinutes = (t: any) => {
     const [time, modifier] = t.split(" ");
@@ -231,12 +263,14 @@ function isTimeBetween(target: String, start: String, end: String) {
   return t <= s || t <= e;
 }
 
+// function which gets opening and closing times for a given day (0=Mon, 6=Sun)
 function getOpenTimes(openCloseTimes: String, day: number) {
   const tmp = openCloseTimes.split("<br>")[day];
   const openClose = tmp.substring(tmp.indexOf(":") + 2).split("-");
   return { open: openClose[0].trim(), close: openClose[1].trim() };
 }
 
+// function which checks if current time is in busy hours list -> boolean
 function isBusy(busyHours: String[], time: String) {
   if (busyHours.length === 0) return false;
   time = time.slice(0, 3) + "00" + time.slice(5);
@@ -265,4 +299,28 @@ function isWithinRadius(
   const distance = R * c;
 
   return distance <= radius;
+}
+
+// Enable placement mode for marker
+function enablePlacementMode(marker: L.Marker, map: any) {
+  let handler: any;
+
+  handler = (e: any) => {
+    const { lat, lng } = e.latlng;
+
+    // Update the URL
+    const newUrl = `http://localhost:3000/map?lat=${lat}&long=${lng}`;
+    //window.history.pushState({}, "", newUrl);
+    window.location.href = newUrl;
+
+    // Reposition the marker
+    marker.setLatLng([lat, lng]).addTo(map);
+
+    // Remove the temporary click listener
+    map.off("click", handler);
+    
+    return [lat, lng];
+  };
+
+  return map.on("click", handler);
 }

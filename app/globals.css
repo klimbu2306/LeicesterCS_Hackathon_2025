@@ -56,3 +56,7 @@ footer {
   display: block;
   margin: 0 auto;
 }
+.combobox-input {
+  user-select: none; /* DELETE THIS */
+  -webkit-user-select: none; /* DELETE THIS */
+}
