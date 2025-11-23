@@ -27,7 +27,7 @@ export default function MapClient() {
   const longitude = lon ? parseFloat(lon) : -1.1246224316026914;
 
   // Radius state (0.5km to 5km)
-  const [radiusMeters, setRadiusMeters] = useState(500);
+  const [radiusMeters, setRadiusMeters] = useState(1000);
 
   useEffect(() => {
     const map = L.map("map", {
