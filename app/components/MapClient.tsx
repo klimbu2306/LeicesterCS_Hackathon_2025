@@ -6,6 +6,7 @@ import L from "leaflet";
 import "leaflet/dist/leaflet.css";
 import parkJson from "../../parkingLocations.json";
 import { useSearchParams } from "next/navigation";
+import { FiArrowRight } from "react-icons/fi";
 
 // ParkingSpot type: Stores parking data from JSON
 type ParkingSpot = {
@@ -87,6 +88,7 @@ export default function MapClient() {
     const nowDay = (new Date().getDay() + 6) % 7;
 
     spots.forEach((spot) => {
+      const gmapsLink = `https://www.google.com/maps/dir/?api=1&destination=${spot.latitude},${spot.longitude}&travelmode=driving`;
       const todayOpenClose = getOpenTimes(spot.openCloseTimes, nowDay);
       const isOpen = isTimeBetween(
         nowTime,
@@ -118,7 +120,16 @@ export default function MapClient() {
         "<br><br>" +
         spot.description +
         "<br><br>" +
-        spot.openCloseTimes;
+        spot.openCloseTimes +
+        "<br><br>" +
+        `<a href="${gmapsLink}" target="_blank" rel="noopener noreferrer" 
+          style="display:inline-flex;align-items:center;gap:4px;padding:4px 8px;background:#4f46e5;color:white;border-radius:6px;text-decoration:none;font-weight:bold;">
+          Start Journey
+          <svg xmlns="http://www.w3.org/2000/svg" fill="none" viewBox="0 0 24 24" 
+                stroke-width="2" stroke="currentColor" width="16" height="16">
+            <path stroke-linecap="round" stroke-linejoin="round" d="M17 8l4 4m0 0l-4 4m4-4H3" />
+          </svg>
+        </a>`;
 
       L.marker([spot.latitude, spot.longitude], {
         icon: !isOpen
