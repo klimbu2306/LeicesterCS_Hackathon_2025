@@ -9,7 +9,7 @@ export const Header = () => {
   const [mobileOpen, setMobileOpen] = useState(false);
 
   return (
-    <header className="sticky top-0 z-50 w-full backdrop-blur-md bg-white/70 dark:bg-black/40 border-b border-zinc-200 dark:border-zinc-800">
+    <header className="sticky top-0 z-50 w-full backdrop-blur-md bg-white/70 dark:bg-black/40 border-b border-zinc-200 dark:border-zinc-800" style={{height: "5dvh"}}>
       <div className="max-w-5xl mx-auto flex items-center justify-between px-4 py-3">
         {/* Left: Title */}
         <span className="font-semibold text-lg">FindMeParking</span>

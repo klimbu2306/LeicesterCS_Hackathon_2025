@@ -29,6 +29,7 @@ export default function MapClient() {
 
   // Radius state (0.5km to 5km)
   const [radiusMeters, setRadiusMeters] = useState(1000);
+  const radFiltering = useState(true); // Enable radius filtering
 
   useEffect(() => {
     const map = L.map("map", {
@@ -68,7 +69,7 @@ export default function MapClient() {
       popupAnchor: [0, -49],
     });
 
-        // Current location marker
+    // Current location marker
     L.marker([latitude, longitude], {
       icon: currentMarkerIcon,
     }).addTo(map);
@@ -97,15 +98,13 @@ export default function MapClient() {
       const issBusy = isBusy(spot.busyHours, nowTime);
 
       // Radius filter
-      if (
-        !isWithinRadius(
+      if (radFiltering&&!isWithinRadius(
           latitude,
           longitude,
           spot.latitude,
           spot.longitude,
           radiusMeters
-        )
-      ) {
+      )) {
         return;
       }
 
@@ -146,7 +145,7 @@ export default function MapClient() {
   return (
     <>
       {/* Vertical radius control at right-center */}
-      <div className="absolute right-4 top-1/2 z-50 -translate-y-1/2 pointer-events-auto">
+      <div className="absolute right-4 top-1/2 z-10000 -translate-y-1/2 pointer-events-auto">
         <div className="bg-black text-white p-3 rounded-xl shadow-lg flex flex-col items-center gap-3 border border-gray-700">
           <span className="text-sm font-semibold">
             {(radiusMeters / 1000).toFixed(1)} km
@@ -161,7 +160,7 @@ export default function MapClient() {
               step={100}
               value={radiusMeters}
               onChange={(e) => setRadiusMeters(Number(e.target.value))}
-              className="w-48 h-2 appearance-none bg-gray-700 rounded-full
+              className="w-24 h-2 appearance-none bg-gray-700 rounded-full
                        accent-white transform -rotate-90"
               style={{ touchAction: "none" }}
             />
@@ -172,7 +171,7 @@ export default function MapClient() {
       </div>
 
       {/* Map container */}
-      <div id="map" style={{ height: "100vh", width: "100%" }} />
+      <div id="map" style={{ height: "90dvh", width: "100%" }} />
     </>
   );
 }
