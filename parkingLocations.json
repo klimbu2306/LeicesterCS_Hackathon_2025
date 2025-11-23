@@ -750,7 +750,11 @@
         "longitude": -1.1075611776548022,
         "openCloseTimes": "Monday : 09:08 am - 07:35 pm<br>Tuesday : 09:08 am - 07:35 pm<br>Wednesday : 09:08 am - 07:35 pm<br>Thursday : 09:08 am - 07:35 pm<br>Friday : 09:08 am - 07:35 pm<br>Saturday : 09:08 am - 07:35 pm<br>Sunday : 07:18 am - 08:38 pm",
         "busyHours": [
-            "07:00 pm"
+            "02:00 pm",
+            "03:00 pm",
+            "04:00 pm",
+            "05:00 pm",
+            "06:00 pm"
         ],
         "prices": "\u00a31 / hour"
     },
@@ -875,7 +879,7 @@
         "description": "A cool place to park",
         "latitude": 52.61392396381766,
         "longitude": -1.1104283987414714,
-        "openCloseTimes": "Monday : 06:20 am - 07:37 pm<br>Tuesday : 06:20 am - 07:37 pm<br>Wednesday : 06:20 am - 07:37 pm<br>Thursday : 06:20 am - 07:37 pm<br>Friday : 06:20 am - 07:37 pm<br>Saturday : 06:20 am - 07:37 pm<br>Sunday : 05:25 am - 08:29 pm",
+        "openCloseTimes": "Monday : 06:20 am - 07:37 pm<br>Tuesday : 06:20 am - 07:37 pm<br>Wednesday : 06:20 am - 07:37 pm<br>Thursday : 06:20 am - 07:37 pm<br>Friday : 06:20 am - 07:37 pm<br>Saturday : 06:20 am - 07:37 pm<br>Sunday : 01:00 am - 01:01 am",
         "busyHours": [
             "10:00 pm",
             "06:00 am"
