@@ -9,6 +9,9 @@
     "lint": "eslint"
   },
   "dependencies": {
+    "@azure/msal-browser": "^4.26.2",
+    "@azure/msal-react": "^3.0.22",
+    "@microsoft/microsoft-graph-client": "^3.0.7",
     "@once-ui-system/core": "^1.5.4",
     "leaflet": "^1.9.4",
     "next": "16.0.3",
