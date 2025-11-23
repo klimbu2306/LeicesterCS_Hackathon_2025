@@ -9,23 +9,35 @@ export const Header = () => {
   const [mobileOpen, setMobileOpen] = useState(false);
 
   return (
-    <header className="sticky top-0 z-50 w-full backdrop-blur-md bg-white/70 dark:bg-black/40 border-b border-zinc-200 dark:border-zinc-800" style={{height: "5dvh"}}>
+    <header
+      className="sticky top-0 z-50 w-full backdrop-blur-md bg-white/70 dark:bg-black/40 border-b border-zinc-200 dark:border-zinc-800"
+      style={{ height: "5dvh" }}
+    >
+      {/* Main Row: Logo/Title (Left) vs Nav/Settings (Right) */}
       <div className="max-w-5xl mx-auto flex items-center justify-between px-4 py-3">
-        {/* Left: Title */}
-        <span className="font-semibold text-lg">FindMeParking</span>
+        {/* Left Group: Logo and Title */}
+        <div className="flex items-center">
+          <img src="/FMP_logo.png" className="h-7 me-3" alt="FMP Logo" />
+          <span className="font-semibold text-lg">FindMeParking</span>
+        </div>
 
-        {/* Middle: Desktop navigation */}
-        <nav className="hidden sm:flex items-center gap-4">
-          <ToggleButton href="/" label="Home" selected={pathname === "/"}  />
-          <ToggleButton href="/map" label="Map" selected={pathname.startsWith("/map")}  />
-        </nav>
-
-        {/* Right: Settings & Mobile menu */}
+        {/* Right Group: Desktop Navigation, Settings Icon, Mobile Menu Button */}
         <div className="flex items-center gap-4">
+          {/* Desktop navigation (now grouped on the right) */}
+          <nav className="hidden sm:flex items-center gap-4">
+            <ToggleButton href="/" label="Home" selected={pathname === "/"} />
             <ToggleButton
-                label={<FiSettings className="w-5 h-5" />}
-                href="/settings"
+              href="/map"
+              label="Map"
+              selected={pathname.startsWith("/map")}
             />
+          </nav>
+
+          {/* Settings Button */}
+          <ToggleButton
+            label={<FiSettings className="w-5 h-5" />}
+            href="/settings"
+          />
 
           {/* Mobile hamburger */}
           <button
@@ -34,12 +46,32 @@ export const Header = () => {
           >
             <span className="sr-only">Open menu</span>
             {mobileOpen ? (
-              <svg viewBox="0 0 24 24" fill="none" stroke="currentColor" className="w-6 h-6">
-                <path d="M6 18L18 6M6 6l12 12" strokeWidth="2" strokeLinecap="round" strokeLinejoin="round" />
+              <svg
+                viewBox="0 0 24 24"
+                fill="none"
+                stroke="currentColor"
+                className="w-6 h-6"
+              >
+                <path
+                  d="M6 18L18 6M6 6l12 12"
+                  strokeWidth="2"
+                  strokeLinecap="round"
+                  strokeLinejoin="round"
+                />
               </svg>
             ) : (
-              <svg viewBox="0 0 24 24" fill="none" stroke="currentColor" className="w-6 h-6">
-                <path d="M4 6h16M4 12h16M4 18h16" strokeWidth="2" strokeLinecap="round" strokeLinejoin="round" />
+              <svg
+                viewBox="0 0 24 24"
+                fill="none"
+                stroke="currentColor"
+                className="w-6 h-6"
+              >
+                <path
+                  d="M4 6h16M4 12h16M4 18h16"
+                  strokeWidth="2"
+                  strokeLinecap="round"
+                  strokeLinejoin="round"
+                />
               </svg>
             )}
           </button>
@@ -49,9 +81,17 @@ export const Header = () => {
       {/* Mobile menu */}
       {mobileOpen && (
         <nav className="sm:hidden bg-white dark:bg-black/80 border-t border-zinc-200 dark:border-zinc-800">
-          <ToggleButton href="/" label="Home" selected={pathname === "/"}   />
-          <ToggleButton href="/map" label="Map" selected={pathname.startsWith("/map")}   />
-          <ToggleButton prefixIcon="settings" href="/settings"   />
+          <ToggleButton href="/" label="Home" selected={pathname === "/"} />
+          <ToggleButton
+            href="/map"
+            label="Map"
+            selected={pathname.startsWith("/map")}
+          />
+          <ToggleButton
+            prefixIcon="settings"
+            label="Settings"
+            href="/settings"
+          />
         </nav>
       )}
     </header>
