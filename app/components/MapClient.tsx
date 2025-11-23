@@ -77,9 +77,37 @@ export default function MapClient() {
     });
 
     // Current location marker
-    L.marker([latitude, longitude], {
+    const currentLocationMarker = L.marker([latitude, longitude], {
       icon: currentMarkerIcon,
-    }).addTo(map);
+    }).bindPopup("Current location<br>"+`
+      <button id="move_btn" style="
+          padding:6px 10px;
+          background:#2563eb;
+          color:white;
+          border:none;
+          border-radius:6px;
+          margin-top:8px;
+          cursor:pointer;">
+        Move this marker
+      </button>
+    `).addTo(map);
+
+    currentLocationMarker.on("popupopen", () => {
+      const btn = document.getElementById(`move_btn`);
+      if (!btn) return;
+
+      btn.addEventListener("click", () => {
+        currentLocationMarker.remove();
+
+        const c = map.getCenter();
+        setCurrentZoom(map.getZoom());
+
+        const tmp = enablePlacementMode(currentLocationMarker, map);
+
+        setLookLocation(tmp);
+        //setRadiusMeters(100);                  // reset radius
+      });
+    });
 
     // Draw dynamic radius circle
     const circle = L.circle([latitude, longitude], {
@@ -147,7 +175,7 @@ export default function MapClient() {
     return () => {
       map.remove();
     };
-  }, [radiusMeters]); // <-- rerun map when radius changes
+  }, [radiusMeters, latitude, longitude]); // <-- rerun map when radius changes
 
   return (
     <>
@@ -265,4 +293,27 @@ function isWithinRadius(
   const distance = R * c;
 
   return distance <= radius;
+}
+
+function enablePlacementMode(marker: L.Marker, map: any) {
+  let handler: any;
+
+  handler = (e: any) => {
+    const { lat, lng } = e.latlng;
+
+    // Update the URL
+    const newUrl = `http://localhost:3000/map?lat=${lat}&long=${lng}`;
+    //window.history.pushState({}, "", newUrl);
+    window.location.href = newUrl;
+
+    // Reposition the marker
+    marker.setLatLng([lat, lng]).addTo(map);
+
+    // Remove the temporary click listener
+    map.off("click", handler);
+    
+    return [lat, lng];
+  };
+
+  return map.on("click", handler);
 }
