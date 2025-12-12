@@ -109,7 +109,7 @@ interface TimelineProps {
 export function Timeline({ children, className }: TimelineProps) {
     const childrenWithProps = Children.map(children, (child, index) => {
         if (isValidElement(child) && child.type === TimelineItem) {
-            const position = child.props.position || (index % 2 === 0 ? "left" : "right");
+            const position = (child as React.ReactElement<{ position?: string }>).props.position || (index % 2 === 0 ? "left" : "right");
             return cloneElement(child, { position } as any);
         }
         return child;
